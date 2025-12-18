@@ -1,0 +1,51 @@
+[
+    {
+        "date": "2025-11-25 15:41:12",
+        "description": "a",
+        "raw_time": "0:00:00",
+        "idle_time": "0:00:00",
+        "actual_duration": "None"
+    },
+    {
+        "date": "2025-11-25 15:50:20",
+        "description": "Teste",
+        "raw_time": "0:00:00",
+        "idle_time": "0:00:00",
+        "actual_duration": "None"
+    },
+    {
+        "date": "2025-11-25 15:54:54",
+        "description": "a",
+        "raw_time": "0:01:02",
+        "idle_time": "0:01:00",
+        "actual_duration": "0:00:02"
+    },
+    {
+        "date": "2025-11-25 16:03:35",
+        "description": "b",
+        "raw_time": "0:02:05",
+        "idle_time": "0:02:00",
+        "actual_duration": "0:00:05"
+    },
+    {
+        "date": "2025-11-27 11:51:45",
+        "description": "Microfundamento: Organização de computadores",
+        "raw_time": "0:00:00",
+        "idle_time": "0:00:00",
+        "actual_duration": "0:16:23"
+    },
+    {
+        "date": "2025-11-30 21:07:26",
+        "description": "teste",
+        "raw_time": "0:01:11",
+        "idle_time": "0:01:00",
+        "actual_duration": "0:00:11"
+    },
+    {
+        "date": "2025-12-01 12:04:13",
+        "description": "Microfundamento: Organização de computadores",
+        "raw_time": "0:00:00",
+        "idle_time": "0:00:00",
+        "actual_duration": "0:06:28"
+    }
+]

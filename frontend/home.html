@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Início</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Happy+Monkey&family=Itim&family=Orbitron:wght@400..900&family=Rammetto+One&family=Work+Sans:ital,wght@0,100..900;1,100..900&family=Zalando+Sans:ital,wght@0,200..900;1,200..900&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="home-main-container">
+        <div class="home-main-header">
+            <button id="settingsBtn"> <img src="./icons/settings.svg" alt=""></button>
+            <div id="homeSettingsContainer" class="home-settings-container">
+                <ul class="home-settings-list">
+                    <h3 class="home-settings-title">Configurações</h2>
+                    <li class="home-settings-item">Indicadores</li>
+                    <li class="home-settings-item">Tempo de ociosidade</li>
+                </ul>
+            </div>
+            <div id="homeIdleContainer" class="home-idle-container">
+                <h3 class="home-settings-title">Tempo de ociosidade</h3>
+                <div class="home-idle-items">
+                    <div class="home-idle-controls">
+                        <button id="btnLess" class="btn-idle"><img  class="increment-icon" src="./icons/circle-minus.svg"></button>
+                        <p id="homeDisplayTime" class="home-display-time"></p>
+                        <button id="btnMore" class="btn-idle"><img class="increment-icon" src="./icons/circle-plus.svg"></button>
+                    </div>
+
+                    <button id="btnSave" class="btn-save">Salvar</button>
+                </div>
+            </div>
+        </div>
+
+        <div class="home-main-wrap">
+            <h1 class="home-title">FOCUS TIMER</h1>
+            <div class="home-controls">
+                <input type="text" id="homeInput" class="home-input" placeholder="Em que vai focar agora?">
+                <button id="startBtn" class="btn" onclick="window.location.href='timer.html'">Iniciar</button>
+            </div>
+        </div>
+    </div>
+    <script src="home.js"></script>
+</body>
+</html>

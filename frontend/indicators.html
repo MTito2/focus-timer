@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Document</title>
+</head>
+<body>
+    <div class="indicators-main-container">
+        <div class="indicators-content-wrapper">
+            <div class="indicators-controlls">
+                <button id="btnHome" class="btn-indicators"><img src="icons/house.svg" alt=""></button>
+                <div>
+                    <input id="calendarInput" class="calendar-input" type="month">
+                </div>
+            </div>
+    
+            <div class="indicators-dashboard-container">
+                <div class="indicators-dashboard">
+                    <h3 class="indicators-dashboard-title">Duração Total</h3>
+                    <p id="dashboard1" class="indicators-dashboard-content"></h2>
+                </div>
+                <div class="indicators-dashboard">
+                    <h3 class="indicators-dashboard-title">Maior Sessão</h3>
+                    <p  id="dashboard2" class="indicators-dashboard-content"></p>
+                </div>
+                <div class="indicators-dashboard">
+                    <h3 class="indicators-dashboard-title">Duração Média</h3>
+                    <p id="dashboard3" class="indicators-dashboard-content"></p>
+                </div>
+                <div class="indicators-dashboard">
+                    <h3 class="indicators-dashboard-title">Dias Focado</h3>
+                    <p id="dashboard4" class="indicators-dashboard-content"></p>
+                </div>
+            </div>
+    
+            <div id="indicatorsTable" class="indicators-table">
+                <div class="indicators-table-header">
+                    <h3 class="indicators-table-title">Data</h3>
+                    <h3 class="indicators-table-title">Descrição</h3>
+                    <h3 class="indicators-table-title">Acumulado</h3>
+                    <h3 class="indicators-table-title">Ociosidade</h3>
+                    <h3 class="indicators-table-title">Real</h3>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script src="indicators.js"></script>
+</body>
+</html>

@@ -1,0 +1,702 @@
+[
+    {
+        "date": "2025-08-14 14:36:01",
+        "description": "Microfundamentos - Pensamento Computacional",
+        "raw_time": "0:22:00",
+        "idle_time": "0:00:00",
+        "actual_duration": "0:22:00"
+    },
+    {
+        "date": "2025-08-15 15:34:56",
+        "description": "Microfundamentos - Pensamento Computacional",
+        "raw_time": "0:35:00",
+        "idle_time": "0:00:00",
+        "actual_duration": "0:35:00"
+    },
+    {
+        "date": "2025-08-16 08:27:29",
+        "description": "Microfundamentos - Pensamento Computacional",
+        "raw_time": "0:52:00",
+        "idle_time": "0:00:00",
+        "actual_duration": "0:52:00"
+    },
+    {
+        "date": "2025-08-18 13:25:22",
+        "description": "Microfundamentos - Pensamento Computacional",
+        "raw_time": "0:51:00",
+        "idle_time": "0:00:00",
+        "actual_duration": "0:51:00"
+    },
+    {
+        "date": "2025-08-18 18:01:05",
+        "description": "Microfundamentos - Pensamento Computacional",
+        "raw_time": "0:20:00",
+        "idle_time": "0:00:00",
+        "actual_duration": "0:20:00"
+    },
+    {
+        "date": "2025-08-19 13:03:28",
+        "description": "Microfundamentos - Pensamento Computacional",
+        "raw_time": "0:41:00",
+        "idle_time": "0:00:00",
+        "actual_duration": "0:41:00"
+    },
+    {
+        "date": "2025-08-19 17:18:39",
+        "description": "Microfundamentos - Pensamento Computacional",
+        "raw_time": "0:09:00",
+        "idle_time": "0:00:00",
+        "actual_duration": "0:09:00"
+    },
+    {
+        "date": "2025-08-20 14:44:00",
+        "description": "Microfundamentos - Pensamento Computacional",
+        "raw_time": "0:22:00",
+        "idle_time": "0:00:00",
+        "actual_duration": "0:22:00"
+    },
+    {
+        "date": "2025-08-21 12:41:28",
+        "description": "Microfundamentos - Pensamento Computacional",
+        "raw_time": "0:09:00",
+        "idle_time": "0:00:00",
+        "actual_duration": "0:09:00"
+    },
+    {
+        "date": "2025-08-23 10:41:09",
+        "description": "Microfundamentos - Pensamento Computacional",
+        "raw_time": "0:25:00",
+        "idle_time": "0:00:00",
+        "actual_duration": "0:25:00"
+    },
+    {
+        "date": "2025-08-23 13:18:08",
+        "description": "Microfundamentos - Pensamento Computacional",
+        "raw_time": "0:18:00",
+        "idle_time": "0:00:00",
+        "actual_duration": "0:18:00"
+    },
+    {
+        "date": "2025-08-25 13:41:43",
+        "description": "Microfundamentos - Pensamento Computacional",
+        "raw_time": "0:50:00",
+        "idle_time": "0:00:00",
+        "actual_duration": "0:50:00"
+    },
+    {
+        "date": "2025-08-26 12:05:59",
+        "description": "Microfundamentos - Fundamentos de Eng Software",
+        "raw_time": "0:13:00",
+        "idle_time": "0:00:00",
+        "actual_duration": "0:13:00"
+    },
+    {
+        "date": "2025-08-26 13:34:27",
+        "description": "Microfundamentos - Fundamentos de Eng Software",
+        "raw_time": "0:50:00",
+        "idle_time": "0:00:00",
+        "actual_duration": "0:50:00"
+    },
+    {
+        "date": "2025-08-26 20:30:50",
+        "description": "Microfundamentos - Fundamentos de Eng Software",
+        "raw_time": "0:50:00",
+        "idle_time": "0:00:00",
+        "actual_duration": "0:50:00"
+    },
+    {
+        "date": "2025-08-27 17:50:45",
+        "description": "Microfundamentos - Fundamentos de Eng Software",
+        "raw_time": "0:25:00",
+        "idle_time": "0:00:00",
+        "actual_duration": "0:25:00"
+    },
+    {
+        "date": "2025-08-28 13:35:10",
+        "description": "Microfundamentos - Fundamentos de Eng Software",
+        "raw_time": "1:09:00",
+        "idle_time": "0:00:00",
+        "actual_duration": "1:09:00"
+    },
+    {
+        "date": "2025-08-30 16:32:22",
+        "description": "Microfundamentos - Fundamentos de Eng Software",
+        "raw_time": "0:15:00",
+        "idle_time": "0:00:00",
+        "actual_duration": "0:15:00"
+    },
+    {
+        "date": "2025-08-31 14:33:19",
+        "description": "Microfundamentos - Fundamentos de Eng Software",
+        "raw_time": "0:30:00",
+        "idle_time": "0:00:00",
+        "actual_duration": "0:30:00"
+    },
+    {
+        "date": "2025-09-01 13:34:33",
+        "description": "Microfundamentos - Fundamentos de Eng Software",
+        "raw_time": "1:09:00",
+        "idle_time": "0:00:00",
+        "actual_duration": "1:09:00"
+    },
+    {
+        "date": "2025-09-02 13:35:57",
+        "description": "Microfundamentos - Fundamentos de Eng Software",
+        "raw_time": "0:36:00",
+        "idle_time": "0:00:00",
+        "actual_duration": "0:36:00"
+    },
+    {
+        "date": "2025-09-02 19:57:03",
+        "description": "Microfundamentos - Fundamentos de Eng Software",
+        "raw_time": "0:33:00",
+        "idle_time": "0:00:00",
+        "actual_duration": "0:33:00"
+    },
+    {
+        "date": "2025-09-03 11:07:01",
+        "description": "Microfundamentos - Fundamentos de Eng Software",
+        "raw_time": "0:50:00",
+        "idle_time": "0:00:00",
+        "actual_duration": "0:50:00"
+    },
+    {
+        "date": "2025-09-04 11:39:28",
+        "description": "Microfundamentos - Fundamentos de Eng Software",
+        "raw_time": "0:59:00",
+        "idle_time": "0:00:00",
+        "actual_duration": "0:59:00"
+    },
+    {
+        "date": "2025-09-05 09:10:22",
+        "description": "Microfundamentos - Fundamentos de Eng Software",
+        "raw_time": "0:38:00",
+        "idle_time": "0:00:00",
+        "actual_duration": "0:38:00"
+    },
+    {
+        "date": "2025-09-06 10:21:40",
+        "description": "Microfundamentos - Matemática Básica",
+        "raw_time": "1:26:00",
+        "idle_time": "0:00:00",
+        "actual_duration": "1:26:00"
+    },
+    {
+        "date": "2025-09-08 11:48:05",
+        "description": "Microfundamentos - Matemática Básica",
+        "raw_time": "2:07:00",
+        "idle_time": "0:00:00",
+        "actual_duration": "2:07:00"
+    },
+    {
+        "date": "2025-09-09 10:43:19",
+        "description": "Microfundamentos - Matemática Básica",
+        "raw_time": "1:20:00",
+        "idle_time": "0:00:00",
+        "actual_duration": "1:20:00"
+    },
+    {
+        "date": "2025-09-09 17:01:47",
+        "description": "Microfundamentos - Matemática Básica",
+        "raw_time": "1:00:00",
+        "idle_time": "0:00:00",
+        "actual_duration": "1:00:00"
+    },
+    {
+        "date": "2025-09-10 12:55:59",
+        "description": "Microfundamentos - Matemática Básica",
+        "raw_time": "0:38:00",
+        "idle_time": "0:00:00",
+        "actual_duration": "0:38:00"
+    },
+    {
+        "date": "2025-09-10 14:14:45",
+        "description": "Microfundamentos - Matemática Básica",
+        "raw_time": "1:08:00",
+        "idle_time": "0:00:00",
+        "actual_duration": "1:08:00"
+    },
+    {
+        "date": "2025-09-10 17:46:51",
+        "description": "Competências Comportamentais - Inteligência Emocional",
+        "raw_time": "0:30:00",
+        "idle_time": "0:00:00",
+        "actual_duration": "0:30:00"
+    },
+    {
+        "date": "2025-09-10 19:45:54",
+        "description": "Microfundamentos - Matemática Básica",
+        "raw_time": "0:25:00",
+        "idle_time": "0:00:00",
+        "actual_duration": "0:25:00"
+    },
+    {
+        "date": "2025-09-11 11:35:41",
+        "description": "Microfundamentos - Matemática Básica",
+        "raw_time": "1:17:00",
+        "idle_time": "0:00:00",
+        "actual_duration": "1:17:00"
+    },
+    {
+        "date": "2025-09-12 12:48:29",
+        "description": "Microfundamentos - Matemática Básica",
+        "raw_time": "1:11:00",
+        "idle_time": "0:00:00",
+        "actual_duration": "1:11:00"
+    },
+    {
+        "date": "2025-09-13 07:06:02",
+        "description": "Microfundamentos - Matemática Básica",
+        "raw_time": "0:47:00",
+        "idle_time": "0:00:00",
+        "actual_duration": "0:47:00"
+    },
+    {
+        "date": "2025-09-15 12:25:27",
+        "description": "Microfundamentos - Matemática Básica",
+        "raw_time": "0:13:00",
+        "idle_time": "0:00:00",
+        "actual_duration": "0:13:00"
+    },
+    {
+        "date": "2025-09-20 09:30:05",
+        "description": "Microfundamentos - Algoritmos E Lógica De Programação",
+        "raw_time": "0:30:00",
+        "idle_time": "0:00:00",
+        "actual_duration": "0:30:00"
+    },
+    {
+        "date": "2025-09-22 10:54:03",
+        "description": "Microfundamentos - Algoritmos E Lógica De Programação",
+        "raw_time": "0:30:00",
+        "idle_time": "0:00:00",
+        "actual_duration": "0:30:00"
+    },
+    {
+        "date": "2025-09-30 11:48:52",
+        "description": "Microfundamentos - Desenvolvimento Web Front End",
+        "raw_time": "0:17:00",
+        "idle_time": "0:00:00",
+        "actual_duration": "0:17:00"
+    },
+    {
+        "date": "2025-09-30 15:22:49",
+        "description": "Microfundamentos - Desenvolvimento Web Front End",
+        "raw_time": "0:52:00",
+        "idle_time": "0:00:00",
+        "actual_duration": "0:52:00"
+    },
+    {
+        "date": "2025-10-01 11:07:21",
+        "description": "Microfundamentos - Desenvolvimento Web Front End",
+        "raw_time": "0:54:00",
+        "idle_time": "0:00:00",
+        "actual_duration": "0:54:00"
+    },
+    {
+        "date": "2025-10-01 15:59:30",
+        "description": "Microfundamentos - Desenvolvimento Web Front End",
+        "raw_time": "1:15:00",
+        "idle_time": "0:00:00",
+        "actual_duration": "1:15:00"
+    },
+    {
+        "date": "2025-10-02 08:27:35",
+        "description": "Microfundamentos - Desenvolvimento Web Front End",
+        "raw_time": "0:25:00",
+        "idle_time": "0:00:00",
+        "actual_duration": "0:25:00"
+    },
+    {
+        "date": "2025-10-02 20:59:49",
+        "description": "Projeto - EasyFocus",
+        "raw_time": "1:24:00",
+        "idle_time": "0:00:00",
+        "actual_duration": "1:24:00"
+    },
+    {
+        "date": "2025-10-04 08:29:44",
+        "description": "Microfundamentos - Desenvolvimento Web Front End",
+        "raw_time": "0:23:00",
+        "idle_time": "0:00:00",
+        "actual_duration": "0:23:00"
+    },
+    {
+        "date": "2025-10-04 12:35:43",
+        "description": "Course - Html And Css",
+        "raw_time": "1:30:00",
+        "idle_time": "0:00:00",
+        "actual_duration": "1:30:00"
+    },
+    {
+        "date": "2025-10-06 17:30:23",
+        "description": "Course - Html And Css",
+        "raw_time": "1:30:00",
+        "idle_time": "0:00:00",
+        "actual_duration": "1:30:00"
+    },
+    {
+        "date": "2025-10-07 17:31:58",
+        "description": "Course - Html And Css",
+        "raw_time": "0:53:00",
+        "idle_time": "0:00:00",
+        "actual_duration": "0:53:00"
+    },
+    {
+        "date": "2025-10-08 11:18:21",
+        "description": "Course - Html And Css",
+        "raw_time": "2:00:00",
+        "idle_time": "0:00:00",
+        "actual_duration": "2:00:00"
+    },
+    {
+        "date": "2025-10-09 22:01:28",
+        "description": "Course - Html And Css",
+        "raw_time": "4:00:00",
+        "idle_time": "0:00:00",
+        "actual_duration": "4:00:00"
+    },
+    {
+        "date": "2025-10-10 16:35:55",
+        "description": "Course - Html And Css",
+        "raw_time": "2:00:00",
+        "idle_time": "0:00:00",
+        "actual_duration": "2:00:00"
+    },
+    {
+        "date": "2025-10-10 16:36:33",
+        "description": "Prática - Html And Css",
+        "raw_time": "1:00:00",
+        "idle_time": "0:00:00",
+        "actual_duration": "1:00:00"
+    },
+    {
+        "date": "2025-10-12 15:20:41",
+        "description": "Projeto - EasyFocus",
+        "raw_time": "1:20:00",
+        "idle_time": "0:00:00",
+        "actual_duration": "1:20:00"
+    },
+    {
+        "date": "2025-10-12 22:42:24",
+        "description": "Projeto - EasyFocus",
+        "raw_time": "0:41:00",
+        "idle_time": "0:00:00",
+        "actual_duration": "0:41:00"
+    },
+    {
+        "date": "2025-10-13 14:00:01",
+        "description": "Projeto - EasyFocus",
+        "raw_time": "3:18:00",
+        "idle_time": "0:00:00",
+        "actual_duration": "3:18:00"
+    },
+    {
+        "date": "2025-10-13 17:22:30",
+        "description": "Course - Javascript",
+        "raw_time": "1:20:00",
+        "idle_time": "0:00:00",
+        "actual_duration": "1:20:00"
+    },
+    {
+        "date": "2025-10-13 20:33:05",
+        "description": "Course - Javascript",
+        "raw_time": "0:37:00",
+        "idle_time": "0:00:00",
+        "actual_duration": "0:37:00"
+    },
+    {
+        "date": "2025-10-14 21:05:21",
+        "description": "Course - Javascript",
+        "raw_time": "0:33:00",
+        "idle_time": "0:00:00",
+        "actual_duration": "0:33:00"
+    },
+    {
+        "date": "2025-10-15 20:22:02",
+        "description": "Course - Javascript",
+        "raw_time": "0:33:00",
+        "idle_time": "0:00:00",
+        "actual_duration": "0:33:00"
+    },
+    {
+        "date": "2025-10-17 10:00:00",
+        "description": "Course - Javascript",
+        "raw_time": "0:39:00",
+        "idle_time": "0:00:00",
+        "actual_duration": "0:39:00"
+    },
+    {
+        "date": "2025-10-18 10:30:14",
+        "description": "Course - Javascript",
+        "raw_time": "1:32:00",
+        "idle_time": "0:00:00",
+        "actual_duration": "1:32:00"
+    },
+    {
+        "date": "2025-10-20 10:55:02",
+        "description": "Projeto - EasyFocus",
+        "raw_time": "2:10:00",
+        "idle_time": "0:00:00",
+        "actual_duration": "2:10:00"
+    },
+    {
+        "date": "2025-10-20 14:01:49",
+        "description": "Projeto - EasyFocus",
+        "raw_time": "1:30:00",
+        "idle_time": "0:00:00",
+        "actual_duration": "1:30:00"
+    },
+    {
+        "date": "2025-10-20 17:36:35",
+        "description": "Projeto - EasyFocus",
+        "raw_time": "1:39:00",
+        "idle_time": "0:00:00",
+        "actual_duration": "1:39:00"
+    },
+    {
+        "date": "2025-10-20 20:35:43",
+        "description": "Projeto - EasyFocus",
+        "raw_time": "0:53:00",
+        "idle_time": "0:00:00",
+        "actual_duration": "0:53:00"
+    },
+    {
+        "date": "2025-10-21 16:09:37",
+        "description": "Projeto - EasyFocus",
+        "raw_time": "1:34:00",
+        "idle_time": "0:00:00",
+        "actual_duration": "1:34:00"
+    },
+    {
+        "date": "2025-10-21 20:01:16",
+        "description": "Projeto - EasyFocus",
+        "raw_time": "0:20:00",
+        "idle_time": "0:00:00",
+        "actual_duration": "0:20:00"
+    },
+    {
+        "date": "2025-10-22 17:03:07",
+        "description": "Projeto - EasyFocus",
+        "raw_time": "4:22:00",
+        "idle_time": "0:00:00",
+        "actual_duration": "4:22:00"
+    },
+    {
+        "date": "2025-10-22 20:33:53",
+        "description": "Projeto - EasyFocus",
+        "raw_time": "0:23:00",
+        "idle_time": "0:00:00",
+        "actual_duration": "0:23:00"
+    },
+    {
+        "date": "2025-10-23 13:15:03",
+        "description": "Projeto - EasyFocus",
+        "raw_time": "0:30:00",
+        "idle_time": "0:00:00",
+        "actual_duration": "0:30:00"
+    },
+    {
+        "date": "2025-10-24 10:52:44",
+        "description": "Projeto - EasyFocus",
+        "raw_time": "1:00:00",
+        "idle_time": "0:00:00",
+        "actual_duration": "1:00:00"
+    },
+    {
+        "date": "2025-10-24 13:13:55",
+        "description": "Projeto - EasyFocus",
+        "raw_time": "0:20:00",
+        "idle_time": "0:00:00",
+        "actual_duration": "0:20:00"
+    },
+    {
+        "date": "2025-10-25 12:16:53",
+        "description": "Projeto - EasyFocus",
+        "raw_time": "1:00:00",
+        "idle_time": "0:00:00",
+        "actual_duration": "1:00:00"
+    },
+    {
+        "date": "2025-10-29 16:35:07",
+        "description": "Microfundamentos - Algoritmos E Abstração De Dados",
+        "raw_time": "0:58:00",
+        "idle_time": "0:00:00",
+        "actual_duration": "0:58:00"
+    },
+    {
+        "date": "2025-10-29 19:35:54",
+        "description": "Microfundamentos - Pensamento Computacional",
+        "raw_time": "0:34:00",
+        "idle_time": "0:00:00",
+        "actual_duration": "0:34:00"
+    },
+    {
+        "date": "2025-11-04 09:56:41",
+        "description": "Projeto - EasyFocus",
+        "raw_time": "2:00:00",
+        "idle_time": "0:00:00",
+        "actual_duration": "2:00:00"
+    },
+    {
+        "date": "2025-11-05 13:49:21",
+        "description": "Projeto - EasyFocus",
+        "raw_time": "1:50:00",
+        "idle_time": "0:00:00",
+        "actual_duration": "1:50:00"
+    },
+    {
+        "date": "2025-11-06 17:45:23",
+        "description": "Projeto - EasyFocus",
+        "raw_time": "2:30:00",
+        "idle_time": "0:00:00",
+        "actual_duration": "2:30:00"
+    },
+    {
+        "date": "2025-11-07 20:11:13",
+        "description": "Projeto - EasyFocus",
+        "raw_time": "0:30:00",
+        "idle_time": "0:00:00",
+        "actual_duration": "0:30:00"
+    },
+    {
+        "date": "2025-11-07 20:43:29",
+        "description": "Projeto - EasyFocus",
+        "raw_time": "0:30:00",
+        "idle_time": "0:00:00",
+        "actual_duration": "0:30:00"
+    },
+    {
+        "date": "2025-11-08 13:05:23",
+        "description": "Projeto - EasyFocus",
+        "raw_time": "2:10:00",
+        "idle_time": "0:00:00",
+        "actual_duration": "2:10:00"
+    },
+    {
+        "date": "2025-11-09 15:25:39",
+        "description": "Projeto - Easyfocus",
+        "raw_time": "0:50:00",
+        "idle_time": "0:00:00",
+        "actual_duration": "0:50:00"
+    },
+    {
+        "date": "2025-11-09 20:30:29",
+        "description": "Projeto - Easyfocus",
+        "raw_time": "0:48:00",
+        "idle_time": "0:00:00",
+        "actual_duration": "0:48:00"
+    },
+    {
+        "date": "2025-11-10 16:59:15",
+        "description": "Projeto - Easy Focus",
+        "raw_time": "2:19:00",
+        "idle_time": "0:00:00",
+        "actual_duration": "2:19:00"
+    },
+    {
+        "date": "2025-11-10 22:19:17",
+        "description": "Projeto - Easyfocus",
+        "raw_time": "1:14:00",
+        "idle_time": "0:00:00",
+        "actual_duration": "1:14:00"
+    },
+    {
+        "date": "2025-11-11 17:14:22",
+        "description": "Projeto - Easyfocus",
+        "raw_time": "3:12:00",
+        "idle_time": "0:00:00",
+        "actual_duration": "3:12:00"
+    },
+    {
+        "date": "2025-11-12 17:22:25",
+        "description": "Projeto - Easyfocus",
+        "raw_time": "6:07:00",
+        "idle_time": "0:00:00",
+        "actual_duration": "6:07:00"
+    },
+    {
+        "date": "2025-11-13 17:06:23",
+        "description": "Projeto - Easyfocus",
+        "raw_time": "5:00:00",
+        "idle_time": "0:00:00",
+        "actual_duration": "5:00:00"
+    },
+    {
+        "date": "2025-11-13 17:18:06",
+        "description": "Projeto - Easyfocus",
+        "raw_time": "0:12:00",
+        "idle_time": "0:00:00",
+        "actual_duration": "0:12:00"
+    },
+    {
+        "date": "2025-11-13 17:18:06",
+        "description": "Projeto - Easyfocus",
+        "raw_time": "0:12:00",
+        "idle_time": "0:00:00",
+        "actual_duration": "0:12:00"
+    },
+    {
+        "date": "2025-11-14 14:56:58",
+        "description": "Projeto - Easyfocus",
+        "raw_time": "2:10:00",
+        "idle_time": "0:00:00",
+        "actual_duration": "2:10:00"
+    },
+    {
+        "date": "2025-11-14 15:29:28",
+        "description": "Projeto - Easyfocus",
+        "raw_time": "0:30:00",
+        "idle_time": "0:00:00",
+        "actual_duration": "0:30:00"
+    },
+    {
+        "date": "2025-11-14 20:33:55",
+        "description": "Projeto - Easyfocus",
+        "raw_time": "0:54:00",
+        "idle_time": "0:00:00",
+        "actual_duration": "0:54:00"
+    },
+    {
+        "date": "2025-11-15 09:26:25",
+        "description": "Projeto - Easyfocus",
+        "raw_time": "0:50:00",
+        "idle_time": "0:00:00",
+        "actual_duration": "0:50:00"
+    },
+    {
+        "date": "2025-11-16 12:01:30",
+        "description": "Projeto - Easyfocus",
+        "raw_time": "1:26:00",
+        "idle_time": "0:00:00",
+        "actual_duration": "1:26:00"
+    },
+    {
+        "date": "2025-11-16 20:09:14",
+        "description": "Projeto - Easyfocus",
+        "raw_time": "0:27:00",
+        "idle_time": "0:00:00",
+        "actual_duration": "0:27:00"
+    },
+    {
+        "date": "2025-11-17 14:22:08",
+        "description": "Projeto - Easyfocus",
+        "raw_time": "1:00:00",
+        "idle_time": "0:00:00",
+        "actual_duration": "1:00:00"
+    },
+    {
+        "date": "2025-11-17 16:39:54",
+        "description": "Projeto - Easyfocus",
+        "raw_time": "1:50:00",
+        "idle_time": "0:00:00",
+        "actual_duration": "1:50:00"
+    },
+    {
+        "date": "2025-11-19 09:03:35",
+        "description": "Projeto - Easyfocus",
+        "raw_time": "1:18:00",
+        "idle_time": "0:00:00",
+        "actual_duration": "1:18:00"
+    }
+]

@@ -1,0 +1,2172 @@
+2025-12-02 14:45:35,245 - WARNING - Failed to delete user data folder: [WinError 5] Acesso negado: 'pywebview_userdata'
+2025-12-02 14:46:07,088 - WARNING - Failed to delete user data folder: [WinError 5] Acesso negado: 'pywebview_userdata'
+2025-12-03 14:44:54,430 - DEBUG - Using WinForms / Chromium
+2025-12-03 14:44:54,783 - DEBUG - Comon path for local URLs: c:\Users\Salum\OneDrive\files\personal_projects\focus-timer\frontend
+2025-12-03 14:44:54,786 - DEBUG - HTTP server root path: c:\Users\Salum\OneDrive\files\personal_projects\focus-timer\frontend
+2025-12-03 14:45:10,452 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-03 14:45:10,480 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-03 14:45:11,875 - DEBUG - _pywebviewready event fired
+2025-12-03 14:45:11,987 - DEBUG - loaded event fired
+2025-12-03 14:45:18,943 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-03 14:45:18,966 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-03 14:45:19,146 - DEBUG - _pywebviewready event fired
+2025-12-03 14:45:19,164 - DEBUG - loaded event fired
+2025-12-03 14:45:38,674 - ERROR - Traceback (most recent call last):
+  File "C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\util.py", line 254, in _call
+    result = func(*func_params)
+TypeError: API.get_registers() takes 1 positional argument but 2 were given
+
+2025-12-03 14:45:40,761 - ERROR - Traceback (most recent call last):
+  File "C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\util.py", line 254, in _call
+    result = func(*func_params)
+TypeError: API.get_registers() takes 1 positional argument but 2 were given
+
+2025-12-03 14:51:31,597 - DEBUG - Using WinForms / Chromium
+2025-12-03 14:51:31,743 - DEBUG - Comon path for local URLs: c:\Users\Salum\OneDrive\files\personal_projects\focus-timer\frontend
+2025-12-03 14:51:31,743 - DEBUG - HTTP server root path: c:\Users\Salum\OneDrive\files\personal_projects\focus-timer\frontend
+2025-12-03 14:51:34,249 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-03 14:51:34,292 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-03 14:51:34,985 - DEBUG - _pywebviewready event fired
+2025-12-03 14:51:35,044 - DEBUG - loaded event fired
+2025-12-03 14:51:49,020 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-03 14:51:49,076 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-03 14:51:49,661 - DEBUG - _pywebviewready event fired
+2025-12-03 14:51:49,710 - DEBUG - loaded event fired
+2025-12-03 14:52:06,220 - ERROR - Traceback (most recent call last):
+  File "C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\util.py", line 254, in _call
+    result = func(*func_params)
+  File "c:\Users\Salum\OneDrive\files\personal_projects\focus-timer\core\api.py", line 44, in get_registers
+    return get_registers_by_period(period)
+  File "c:\Users\Salum\OneDrive\files\personal_projects\focus-timer\core\firebase\registers.py", line 14, in get_registers_by_period
+    start_date = datetime(day=1, month=month, year=year).strftime("%Y-%m-%d")
+                 ~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: 'str' object cannot be interpreted as an integer
+
+2025-12-03 14:52:21,847 - ERROR - Traceback (most recent call last):
+  File "C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\util.py", line 254, in _call
+    result = func(*func_params)
+  File "c:\Users\Salum\OneDrive\files\personal_projects\focus-timer\core\api.py", line 44, in get_registers
+    return get_registers_by_period(period)
+  File "c:\Users\Salum\OneDrive\files\personal_projects\focus-timer\core\firebase\registers.py", line 14, in get_registers_by_period
+    start_date = datetime(day=1, month=month, year=year).strftime("%Y-%m-%d")
+                 ~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: 'str' object cannot be interpreted as an integer
+
+2025-12-03 14:53:54,711 - DEBUG - Using WinForms / Chromium
+2025-12-03 14:53:54,835 - DEBUG - Comon path for local URLs: c:\Users\Salum\OneDrive\files\personal_projects\focus-timer\frontend
+2025-12-03 14:53:54,837 - DEBUG - HTTP server root path: c:\Users\Salum\OneDrive\files\personal_projects\focus-timer\frontend
+2025-12-03 14:53:57,472 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-03 14:53:57,496 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-03 14:53:57,908 - DEBUG - _pywebviewready event fired
+2025-12-03 14:53:57,995 - DEBUG - loaded event fired
+2025-12-03 14:54:01,224 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-03 14:54:01,257 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-03 14:54:01,571 - DEBUG - _pywebviewready event fired
+2025-12-03 14:54:01,589 - DEBUG - loaded event fired
+2025-12-03 14:54:05,873 - ERROR - Traceback (most recent call last):
+  File "C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\util.py", line 254, in _call
+    result = func(*func_params)
+  File "c:\Users\Salum\OneDrive\files\personal_projects\focus-timer\core\api.py", line 44, in get_registers
+    return get_registers_by_period(period)
+  File "c:\Users\Salum\OneDrive\files\personal_projects\focus-timer\core\firebase\registers.py", line 14, in get_registers_by_period
+    start_date = datetime(day=1, month=month, year=year).strftime("%Y-%m-%d")
+                 ~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: 'str' object cannot be interpreted as an integer
+
+2025-12-03 14:54:38,312 - DEBUG - Using WinForms / Chromium
+2025-12-03 14:54:38,472 - DEBUG - Comon path for local URLs: c:\Users\Salum\OneDrive\files\personal_projects\focus-timer\frontend
+2025-12-03 14:54:38,474 - DEBUG - HTTP server root path: c:\Users\Salum\OneDrive\files\personal_projects\focus-timer\frontend
+2025-12-03 14:54:41,058 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-03 14:54:41,110 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-03 14:54:41,762 - DEBUG - _pywebviewready event fired
+2025-12-03 14:54:41,830 - DEBUG - loaded event fired
+2025-12-03 14:54:50,148 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-03 14:54:50,164 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-03 14:54:50,544 - DEBUG - _pywebviewready event fired
+2025-12-03 14:54:50,573 - DEBUG - loaded event fired
+2025-12-03 14:54:56,951 - ERROR - Traceback (most recent call last):
+  File "C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\util.py", line 254, in _call
+    result = func(*func_params)
+  File "c:\Users\Salum\OneDrive\files\personal_projects\focus-timer\core\api.py", line 44, in get_registers
+    return get_registers_by_period(period)
+  File "c:\Users\Salum\OneDrive\files\personal_projects\focus-timer\core\firebase\registers.py", line 16, in get_registers_by_period
+    start_date = datetime(day=1, month=month, year=year).strftime("%Y-%m-%d")
+                 ~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: 'str' object cannot be interpreted as an integer
+
+2025-12-03 14:57:09,805 - DEBUG - Using WinForms / Chromium
+2025-12-03 14:57:09,926 - DEBUG - Comon path for local URLs: c:\Users\Salum\OneDrive\files\personal_projects\focus-timer\frontend
+2025-12-03 14:57:09,937 - DEBUG - HTTP server root path: c:\Users\Salum\OneDrive\files\personal_projects\focus-timer\frontend
+2025-12-03 14:57:12,301 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-03 14:57:12,449 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-03 14:57:12,908 - DEBUG - _pywebviewready event fired
+2025-12-03 14:57:12,950 - DEBUG - loaded event fired
+2025-12-03 14:57:18,207 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-03 14:57:18,249 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-03 14:57:18,584 - DEBUG - _pywebviewready event fired
+2025-12-03 14:57:18,596 - DEBUG - loaded event fired
+2025-12-03 14:59:20,704 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-03 14:59:20,747 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-03 14:59:21,129 - DEBUG - _pywebviewready event fired
+2025-12-03 14:59:21,184 - DEBUG - loaded event fired
+2025-12-03 14:59:23,428 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-03 14:59:23,452 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-03 14:59:23,854 - DEBUG - _pywebviewready event fired
+2025-12-03 14:59:23,935 - DEBUG - loaded event fired
+2025-12-03 15:04:53,849 - DEBUG - Using WinForms / Chromium
+2025-12-03 15:04:54,010 - DEBUG - Comon path for local URLs: c:\Users\Salum\OneDrive\files\personal_projects\focus-timer\frontend
+2025-12-03 15:04:54,017 - DEBUG - HTTP server root path: c:\Users\Salum\OneDrive\files\personal_projects\focus-timer\frontend
+2025-12-03 15:04:57,200 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-03 15:04:57,217 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-03 15:04:57,484 - DEBUG - _pywebviewready event fired
+2025-12-03 15:04:57,505 - DEBUG - loaded event fired
+2025-12-03 15:05:10,248 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-03 15:05:10,272 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-03 15:05:10,441 - DEBUG - _pywebviewready event fired
+2025-12-03 15:05:10,485 - DEBUG - loaded event fired
+2025-12-03 15:24:16,610 - WARNING - Failed to delete user data folder: [WinError 5] Acesso negado: 'pywebview_userdata'
+2025-12-03 15:25:43,255 - DEBUG - Using WinForms / Chromium
+2025-12-03 15:25:43,339 - DEBUG - Comon path for local URLs: c:\Users\Salum\OneDrive\files\personal_projects\focus-timer\frontend
+2025-12-03 15:25:43,349 - DEBUG - HTTP server root path: c:\Users\Salum\OneDrive\files\personal_projects\focus-timer\frontend
+2025-12-03 15:25:45,706 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-03 15:25:45,757 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-03 15:25:46,210 - DEBUG - _pywebviewready event fired
+2025-12-03 15:25:46,328 - DEBUG - loaded event fired
+2025-12-03 15:25:47,629 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-03 15:25:47,640 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-03 15:25:47,972 - DEBUG - _pywebviewready event fired
+2025-12-03 15:25:48,006 - DEBUG - loaded event fired
+2025-12-03 15:25:56,880 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-03 15:25:56,946 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-03 15:25:57,273 - DEBUG - _pywebviewready event fired
+2025-12-03 15:25:57,294 - DEBUG - loaded event fired
+2025-12-03 15:25:58,038 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-03 15:25:58,089 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-03 15:25:58,451 - DEBUG - _pywebviewready event fired
+2025-12-03 15:25:58,468 - DEBUG - loaded event fired
+2025-12-03 15:26:00,099 - ERROR - Traceback (most recent call last):
+  File "C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\util.py", line 254, in _call
+    result = func(*func_params)
+  File "c:\Users\Salum\OneDrive\files\personal_projects\focus-timer\core\api.py", line 44, in get_registers
+    return get_registers_by_period(period)
+  File "c:\Users\Salum\OneDrive\files\personal_projects\focus-timer\core\firebase\registers.py", line 11, in get_registers_by_period
+    year, month = period.split("-")
+    ^^^^^^^^^^^
+ValueError: not enough values to unpack (expected 2, got 1)
+
+2025-12-03 15:26:00,490 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-03 15:26:00,508 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-03 15:26:01,170 - DEBUG - _pywebviewready event fired
+2025-12-03 15:26:01,232 - DEBUG - loaded event fired
+2025-12-03 15:28:11,617 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-03 15:28:11,642 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-03 15:28:11,912 - DEBUG - _pywebviewready event fired
+2025-12-03 15:28:11,943 - DEBUG - loaded event fired
+2025-12-03 15:28:49,857 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-03 15:28:49,904 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-03 15:28:50,383 - DEBUG - _pywebviewready event fired
+2025-12-03 15:28:50,492 - DEBUG - loaded event fired
+2025-12-03 15:29:31,022 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-03 15:29:31,082 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-03 15:29:31,461 - DEBUG - _pywebviewready event fired
+2025-12-03 15:29:31,471 - DEBUG - loaded event fired
+2025-12-03 15:42:02,738 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-03 15:42:02,741 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-03 15:42:02,960 - DEBUG - _pywebviewready event fired
+2025-12-03 15:42:03,013 - DEBUG - loaded event fired
+2025-12-03 15:43:05,355 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-03 15:43:05,398 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-03 15:43:05,659 - DEBUG - _pywebviewready event fired
+2025-12-03 15:43:05,675 - DEBUG - loaded event fired
+2025-12-03 15:43:50,783 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-03 15:43:50,829 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-03 15:43:51,067 - DEBUG - _pywebviewready event fired
+2025-12-03 15:43:51,084 - DEBUG - loaded event fired
+2025-12-03 15:44:38,019 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-03 15:44:38,040 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-03 15:44:38,296 - DEBUG - _pywebviewready event fired
+2025-12-03 15:44:38,317 - DEBUG - loaded event fired
+2025-12-03 15:47:23,367 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-03 15:47:23,382 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-03 15:47:23,684 - DEBUG - _pywebviewready event fired
+2025-12-03 15:47:23,703 - DEBUG - loaded event fired
+2025-12-03 15:49:50,392 - ERROR - Traceback (most recent call last):
+  File "C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\util.py", line 254, in _call
+    result = func(*func_params)
+  File "c:\Users\Salum\OneDrive\files\personal_projects\focus-timer\core\api.py", line 44, in get_registers
+    return get_registers_by_period(period)
+  File "c:\Users\Salum\OneDrive\files\personal_projects\focus-timer\core\firebase\registers.py", line 11, in get_registers_by_period
+    year, month = period.split("-")
+    ^^^^^^^^^^^
+ValueError: not enough values to unpack (expected 2, got 1)
+
+2025-12-03 15:50:23,198 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-03 15:50:23,228 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-03 15:50:23,658 - DEBUG - _pywebviewready event fired
+2025-12-03 15:50:23,697 - DEBUG - loaded event fired
+2025-12-03 16:04:28,865 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-03 16:04:28,905 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-03 16:04:29,094 - DEBUG - _pywebviewready event fired
+2025-12-03 16:04:29,103 - DEBUG - loaded event fired
+2025-12-03 16:16:25,655 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-03 16:16:25,685 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-03 16:16:25,930 - DEBUG - _pywebviewready event fired
+2025-12-03 16:16:25,940 - DEBUG - loaded event fired
+2025-12-03 16:17:32,366 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-03 16:17:32,389 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-03 16:17:32,579 - DEBUG - _pywebviewready event fired
+2025-12-03 16:17:32,594 - DEBUG - loaded event fired
+2025-12-03 16:42:05,021 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-03 16:42:05,079 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-03 16:42:05,531 - DEBUG - _pywebviewready event fired
+2025-12-03 16:42:05,579 - DEBUG - loaded event fired
+2025-12-03 16:42:53,360 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-03 16:42:53,408 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-03 16:42:53,582 - DEBUG - _pywebviewready event fired
+2025-12-03 16:42:53,591 - DEBUG - loaded event fired
+2025-12-03 16:48:18,249 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-03 16:48:18,265 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-03 16:48:18,400 - DEBUG - _pywebviewready event fired
+2025-12-03 16:48:18,421 - DEBUG - loaded event fired
+2025-12-03 16:48:51,116 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-03 16:48:51,160 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-03 16:48:51,587 - DEBUG - _pywebviewready event fired
+2025-12-03 16:48:51,649 - DEBUG - loaded event fired
+2025-12-03 16:49:39,546 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-03 16:49:39,576 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-03 16:49:39,758 - DEBUG - _pywebviewready event fired
+2025-12-03 16:49:39,783 - DEBUG - loaded event fired
+2025-12-03 16:50:33,608 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-03 16:50:33,632 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-03 16:50:33,941 - DEBUG - _pywebviewready event fired
+2025-12-03 16:50:33,971 - DEBUG - loaded event fired
+2025-12-03 16:51:28,457 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-03 16:51:28,504 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-03 16:51:28,688 - DEBUG - _pywebviewready event fired
+2025-12-03 16:51:28,704 - DEBUG - loaded event fired
+2025-12-03 16:52:00,549 - ERROR - Traceback (most recent call last):
+  File "C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\util.py", line 254, in _call
+    result = func(*func_params)
+  File "c:\Users\Salum\OneDrive\files\personal_projects\focus-timer\core\api.py", line 44, in get_registers
+    return get_registers_by_period(period)
+  File "c:\Users\Salum\OneDrive\files\personal_projects\focus-timer\core\firebase\registers.py", line 11, in get_registers_by_period
+    year, month = period.split("-")
+    ^^^^^^^^^^^
+ValueError: not enough values to unpack (expected 2, got 1)
+
+2025-12-03 16:52:02,471 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-03 16:52:02,518 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-03 16:52:02,722 - DEBUG - _pywebviewready event fired
+2025-12-03 16:52:02,747 - DEBUG - loaded event fired
+2025-12-03 16:52:14,261 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-03 16:52:14,340 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-03 16:52:14,873 - DEBUG - _pywebviewready event fired
+2025-12-03 16:52:14,935 - DEBUG - loaded event fired
+2025-12-03 16:52:22,007 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-03 16:52:22,021 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-03 16:52:22,336 - DEBUG - _pywebviewready event fired
+2025-12-03 16:52:22,352 - DEBUG - loaded event fired
+2025-12-03 16:56:14,976 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-03 16:56:14,991 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-03 16:56:15,174 - DEBUG - _pywebviewready event fired
+2025-12-03 16:56:15,222 - DEBUG - loaded event fired
+2025-12-03 16:56:41,863 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-03 16:56:41,887 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-03 16:56:42,181 - DEBUG - _pywebviewready event fired
+2025-12-03 16:56:42,198 - DEBUG - loaded event fired
+2025-12-03 16:57:13,056 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-03 16:57:13,104 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-03 16:57:13,474 - DEBUG - _pywebviewready event fired
+2025-12-03 16:57:13,493 - DEBUG - loaded event fired
+2025-12-03 16:58:03,403 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-03 16:58:03,405 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-03 16:58:03,529 - DEBUG - _pywebviewready event fired
+2025-12-03 16:58:03,575 - DEBUG - loaded event fired
+2025-12-03 16:58:28,814 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-03 16:58:28,817 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-03 16:58:29,114 - DEBUG - _pywebviewready event fired
+2025-12-03 16:58:29,188 - DEBUG - loaded event fired
+2025-12-03 17:00:52,308 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-03 17:00:52,323 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-03 17:00:52,535 - DEBUG - _pywebviewready event fired
+2025-12-03 17:00:52,563 - DEBUG - loaded event fired
+2025-12-03 17:01:29,593 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-03 17:01:29,645 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-03 17:01:29,961 - DEBUG - _pywebviewready event fired
+2025-12-03 17:01:30,049 - DEBUG - loaded event fired
+2025-12-03 17:02:59,564 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-03 17:02:59,591 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-03 17:02:59,907 - DEBUG - _pywebviewready event fired
+2025-12-03 17:02:59,930 - DEBUG - loaded event fired
+2025-12-03 17:09:08,633 - DEBUG - Using WinForms / Chromium
+2025-12-03 17:09:08,774 - DEBUG - Comon path for local URLs: c:\Users\Salum\OneDrive\files\personal_projects\focus-timer\frontend
+2025-12-03 17:09:08,777 - DEBUG - HTTP server root path: c:\Users\Salum\OneDrive\files\personal_projects\focus-timer\frontend
+2025-12-03 17:09:11,180 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-03 17:09:11,227 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-03 17:09:11,878 - DEBUG - _pywebviewready event fired
+2025-12-03 17:09:11,965 - DEBUG - loaded event fired
+2025-12-03 17:09:28,183 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-03 17:09:28,208 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-03 17:09:28,531 - DEBUG - _pywebviewready event fired
+2025-12-03 17:09:28,563 - DEBUG - loaded event fired
+2025-12-03 17:10:34,221 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-03 17:10:34,244 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-03 17:10:34,623 - DEBUG - _pywebviewready event fired
+2025-12-03 17:10:34,687 - DEBUG - loaded event fired
+2025-12-03 17:14:43,460 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-03 17:14:43,487 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-03 17:14:43,766 - DEBUG - _pywebviewready event fired
+2025-12-03 17:14:43,787 - DEBUG - loaded event fired
+2025-12-03 17:15:25,358 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-03 17:15:25,396 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-03 17:15:25,753 - DEBUG - _pywebviewready event fired
+2025-12-03 17:15:25,775 - DEBUG - loaded event fired
+2025-12-03 17:17:46,654 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-03 17:17:46,705 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-03 17:17:47,116 - DEBUG - _pywebviewready event fired
+2025-12-03 17:17:47,179 - DEBUG - loaded event fired
+2025-12-03 17:19:44,725 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-03 17:19:44,835 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-03 17:19:45,160 - DEBUG - _pywebviewready event fired
+2025-12-03 17:19:45,225 - DEBUG - loaded event fired
+2025-12-03 17:20:49,801 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-03 17:20:49,828 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-03 17:20:50,163 - DEBUG - _pywebviewready event fired
+2025-12-03 17:20:50,176 - DEBUG - loaded event fired
+2025-12-03 17:21:40,486 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-03 17:21:40,596 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-03 17:21:41,027 - DEBUG - _pywebviewready event fired
+2025-12-03 17:21:41,066 - DEBUG - loaded event fired
+2025-12-03 17:22:02,156 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-03 17:22:02,191 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-03 17:22:02,653 - DEBUG - _pywebviewready event fired
+2025-12-03 17:22:02,764 - DEBUG - loaded event fired
+2025-12-03 17:23:09,754 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-03 17:23:09,806 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-03 17:23:10,088 - DEBUG - _pywebviewready event fired
+2025-12-03 17:23:10,157 - DEBUG - loaded event fired
+2025-12-03 17:23:12,230 - ERROR - Traceback (most recent call last):
+  File "C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\util.py", line 254, in _call
+    result = func(*func_params)
+  File "c:\Users\Salum\OneDrive\files\personal_projects\focus-timer\core\api.py", line 44, in get_registers
+    return get_registers_by_period(period)
+  File "c:\Users\Salum\OneDrive\files\personal_projects\focus-timer\core\firebase\registers.py", line 11, in get_registers_by_period
+    year, month = period.split("-")
+    ^^^^^^^^^^^
+ValueError: not enough values to unpack (expected 2, got 1)
+
+2025-12-03 17:24:16,737 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-03 17:24:16,772 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-03 17:24:17,206 - DEBUG - _pywebviewready event fired
+2025-12-03 17:24:17,255 - DEBUG - loaded event fired
+2025-12-03 17:25:09,733 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-03 17:25:09,766 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-03 17:25:10,050 - DEBUG - _pywebviewready event fired
+2025-12-03 17:25:10,074 - DEBUG - loaded event fired
+2025-12-03 17:26:08,203 - ERROR - Traceback (most recent call last):
+  File "C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\util.py", line 254, in _call
+    result = func(*func_params)
+  File "c:\Users\Salum\OneDrive\files\personal_projects\focus-timer\core\api.py", line 44, in get_registers
+    return get_registers_by_period(period)
+  File "c:\Users\Salum\OneDrive\files\personal_projects\focus-timer\core\firebase\registers.py", line 11, in get_registers_by_period
+    year, month = period.split("-")
+    ^^^^^^^^^^^
+ValueError: not enough values to unpack (expected 2, got 1)
+
+2025-12-03 17:27:55,419 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-03 17:27:55,428 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-03 17:27:55,585 - DEBUG - _pywebviewready event fired
+2025-12-03 17:27:55,618 - DEBUG - loaded event fired
+2025-12-03 19:35:22,673 - DEBUG - Using WinForms / Chromium
+2025-12-03 19:35:22,792 - DEBUG - Comon path for local URLs: c:\Users\Pichau\OneDrive\files\personal_projects\focus-timer\frontend
+2025-12-03 19:35:22,794 - DEBUG - HTTP server root path: c:\Users\Pichau\OneDrive\files\personal_projects\focus-timer\frontend
+2025-12-03 19:35:38,857 - ERROR - WebView2 initialization failed with exception:
+  (0x8000FFFF): Falha catastrófica (Exceção de HRESULT: 0x8000FFFF (E_UNEXPECTED))
+   em System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   em Microsoft.Web.WebView2.Core.CoreWebView2Environment.<CreateCoreWebView2ControllerAsync>d__10.MoveNext()
+--- Fim do rastreamento de pilha do local anterior onde a exceção foi gerada ---
+   em System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   em System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   em Microsoft.Web.WebView2.WinForms.WebView2.<InitCoreWebView2Async>d__25.MoveNext()
+2025-12-03 19:36:12,076 - DEBUG - Using WinForms / Chromium
+2025-12-03 19:36:12,210 - DEBUG - Comon path for local URLs: c:\Users\Pichau\OneDrive\files\personal_projects\focus-timer\frontend
+2025-12-03 19:36:12,239 - DEBUG - HTTP server root path: c:\Users\Pichau\OneDrive\files\personal_projects\focus-timer\frontend
+2025-12-03 19:36:16,542 - ERROR - WebView2 initialization failed with exception:
+  (0x8000FFFF): Falha catastrófica (Exceção de HRESULT: 0x8000FFFF (E_UNEXPECTED))
+   em System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   em Microsoft.Web.WebView2.Core.CoreWebView2Environment.<CreateCoreWebView2ControllerAsync>d__10.MoveNext()
+--- Fim do rastreamento de pilha do local anterior onde a exceção foi gerada ---
+   em System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   em System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   em Microsoft.Web.WebView2.WinForms.WebView2.<InitCoreWebView2Async>d__25.MoveNext()
+2025-12-03 19:42:50,065 - DEBUG - Using WinForms / Chromium
+2025-12-03 19:42:50,309 - DEBUG - Comon path for local URLs: c:\Users\Pichau\OneDrive\files\personal_projects\focus-timer\frontend
+2025-12-03 19:42:50,346 - DEBUG - HTTP server root path: c:\Users\Pichau\OneDrive\files\personal_projects\focus-timer\frontend
+2025-12-03 19:42:51,900 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-03 19:42:51,910 - DEBUG - Loading JS files from C:\Users\Pichau\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\webview\js
+2025-12-03 19:42:51,977 - DEBUG - _pywebviewready event fired
+2025-12-03 19:42:51,999 - DEBUG - loaded event fired
+2025-12-03 19:43:27,511 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-03 19:43:27,516 - DEBUG - Loading JS files from C:\Users\Pichau\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\webview\js
+2025-12-03 19:43:27,607 - DEBUG - _pywebviewready event fired
+2025-12-03 19:43:27,632 - DEBUG - loaded event fired
+2025-12-03 19:43:31,484 - ERROR - Traceback (most recent call last):
+  File "C:\Users\Pichau\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\webview\util.py", line 254, in _call
+    result = func(*func_params)
+             ^^^^^^^^^^^^^^^^^^
+  File "c:\Users\Pichau\OneDrive\files\personal_projects\focus-timer\core\api.py", line 44, in get_registers
+    return get_registers_by_period(period)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\Pichau\OneDrive\files\personal_projects\focus-timer\core\firebase\registers.py", line 11, in get_registers_by_period
+    year, month = period.split("-")
+    ^^^^^^^^^^^
+ValueError: not enough values to unpack (expected 2, got 1)
+
+2025-12-03 19:43:33,622 - ERROR - Traceback (most recent call last):
+  File "C:\Users\Pichau\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\webview\util.py", line 254, in _call
+    result = func(*func_params)
+             ^^^^^^^^^^^^^^^^^^
+  File "c:\Users\Pichau\OneDrive\files\personal_projects\focus-timer\core\api.py", line 44, in get_registers
+    return get_registers_by_period(period)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\Pichau\OneDrive\files\personal_projects\focus-timer\core\firebase\registers.py", line 11, in get_registers_by_period
+    year, month = period.split("-")
+    ^^^^^^^^^^^
+ValueError: not enough values to unpack (expected 2, got 1)
+
+2025-12-03 19:48:01,208 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-03 19:48:01,214 - DEBUG - Loading JS files from C:\Users\Pichau\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\webview\js
+2025-12-03 19:48:01,303 - DEBUG - _pywebviewready event fired
+2025-12-03 19:48:01,322 - DEBUG - loaded event fired
+2025-12-03 19:49:12,344 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-03 19:49:12,349 - DEBUG - Loading JS files from C:\Users\Pichau\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\webview\js
+2025-12-03 19:49:12,617 - DEBUG - _pywebviewready event fired
+2025-12-03 19:49:12,646 - DEBUG - loaded event fired
+2025-12-03 19:50:18,096 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-03 19:50:18,110 - DEBUG - Loading JS files from C:\Users\Pichau\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\webview\js
+2025-12-03 19:50:18,317 - DEBUG - _pywebviewready event fired
+2025-12-03 19:50:18,332 - DEBUG - loaded event fired
+2025-12-03 19:52:56,553 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-03 19:52:56,558 - DEBUG - Loading JS files from C:\Users\Pichau\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\webview\js
+2025-12-03 19:52:56,632 - DEBUG - _pywebviewready event fired
+2025-12-03 19:52:56,654 - DEBUG - loaded event fired
+2025-12-03 19:53:53,231 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-03 19:53:53,243 - DEBUG - Loading JS files from C:\Users\Pichau\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\webview\js
+2025-12-03 19:53:53,358 - DEBUG - _pywebviewready event fired
+2025-12-03 19:53:53,375 - DEBUG - loaded event fired
+2025-12-03 19:55:04,610 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-03 19:55:04,624 - DEBUG - Loading JS files from C:\Users\Pichau\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\webview\js
+2025-12-03 19:55:04,898 - DEBUG - _pywebviewready event fired
+2025-12-03 19:55:04,917 - DEBUG - loaded event fired
+2025-12-03 19:55:51,187 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-03 19:55:51,204 - DEBUG - Loading JS files from C:\Users\Pichau\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\webview\js
+2025-12-03 19:55:51,394 - DEBUG - _pywebviewready event fired
+2025-12-03 19:55:51,423 - DEBUG - loaded event fired
+2025-12-03 19:57:23,825 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-03 19:57:23,828 - DEBUG - Loading JS files from C:\Users\Pichau\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\webview\js
+2025-12-03 19:57:23,914 - DEBUG - _pywebviewready event fired
+2025-12-03 19:57:23,933 - DEBUG - loaded event fired
+2025-12-03 20:03:43,777 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-03 20:03:43,783 - DEBUG - Loading JS files from C:\Users\Pichau\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\webview\js
+2025-12-03 20:03:43,862 - DEBUG - _pywebviewready event fired
+2025-12-03 20:03:43,885 - DEBUG - loaded event fired
+2025-12-03 20:04:25,380 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-03 20:04:25,383 - DEBUG - Loading JS files from C:\Users\Pichau\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\webview\js
+2025-12-03 20:04:25,526 - DEBUG - _pywebviewready event fired
+2025-12-03 20:04:25,550 - DEBUG - loaded event fired
+2025-12-03 20:05:11,627 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-03 20:05:11,634 - DEBUG - Loading JS files from C:\Users\Pichau\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\webview\js
+2025-12-03 20:05:11,753 - DEBUG - _pywebviewready event fired
+2025-12-03 20:05:11,777 - DEBUG - loaded event fired
+2025-12-03 20:05:31,964 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-03 20:05:31,974 - DEBUG - Loading JS files from C:\Users\Pichau\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\webview\js
+2025-12-03 20:05:32,483 - DEBUG - _pywebviewready event fired
+2025-12-03 20:05:32,503 - DEBUG - loaded event fired
+2025-12-03 20:06:43,650 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-03 20:06:43,655 - DEBUG - Loading JS files from C:\Users\Pichau\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\webview\js
+2025-12-03 20:06:43,742 - DEBUG - _pywebviewready event fired
+2025-12-03 20:06:43,755 - DEBUG - loaded event fired
+2025-12-03 20:07:07,748 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-03 20:07:07,756 - DEBUG - Loading JS files from C:\Users\Pichau\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\webview\js
+2025-12-03 20:07:07,830 - DEBUG - _pywebviewready event fired
+2025-12-03 20:07:07,844 - DEBUG - loaded event fired
+2025-12-03 20:07:16,850 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-03 20:07:16,855 - DEBUG - Loading JS files from C:\Users\Pichau\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\webview\js
+2025-12-03 20:07:16,929 - DEBUG - _pywebviewready event fired
+2025-12-03 20:07:16,946 - DEBUG - loaded event fired
+2025-12-03 20:08:55,798 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-03 20:08:55,806 - DEBUG - Loading JS files from C:\Users\Pichau\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\webview\js
+2025-12-03 20:08:55,889 - DEBUG - _pywebviewready event fired
+2025-12-03 20:08:55,906 - DEBUG - loaded event fired
+2025-12-03 20:09:27,309 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-03 20:09:27,312 - DEBUG - Loading JS files from C:\Users\Pichau\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\webview\js
+2025-12-03 20:09:27,386 - DEBUG - _pywebviewready event fired
+2025-12-03 20:09:27,402 - DEBUG - loaded event fired
+2025-12-03 20:10:04,830 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-03 20:10:04,854 - DEBUG - Loading JS files from C:\Users\Pichau\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\webview\js
+2025-12-03 20:10:04,944 - DEBUG - _pywebviewready event fired
+2025-12-03 20:10:04,960 - DEBUG - loaded event fired
+2025-12-04 08:44:05,779 - DEBUG - Using WinForms / Chromium
+2025-12-04 08:44:05,909 - DEBUG - Comon path for local URLs: c:\Users\Salum\OneDrive\files\personal_projects\focus-timer\frontend
+2025-12-04 08:44:05,922 - DEBUG - HTTP server root path: c:\Users\Salum\OneDrive\files\personal_projects\focus-timer\frontend
+2025-12-04 08:44:08,583 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-04 08:44:08,646 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-04 08:44:09,409 - DEBUG - _pywebviewready event fired
+2025-12-04 08:44:09,448 - DEBUG - loaded event fired
+2025-12-04 08:44:53,763 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-04 08:44:53,837 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-04 08:44:54,213 - DEBUG - _pywebviewready event fired
+2025-12-04 08:44:54,260 - DEBUG - loaded event fired
+2025-12-04 08:45:52,376 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-04 08:45:52,380 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-04 08:45:52,635 - DEBUG - _pywebviewready event fired
+2025-12-04 08:45:52,658 - DEBUG - loaded event fired
+2025-12-04 08:46:11,145 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-04 08:46:11,153 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-04 08:46:11,488 - DEBUG - _pywebviewready event fired
+2025-12-04 08:46:11,504 - DEBUG - loaded event fired
+2025-12-04 08:46:51,761 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-04 08:46:51,787 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-04 08:46:52,256 - DEBUG - _pywebviewready event fired
+2025-12-04 08:46:52,322 - DEBUG - loaded event fired
+2025-12-04 08:47:02,548 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-04 08:47:02,562 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-04 08:47:02,923 - DEBUG - _pywebviewready event fired
+2025-12-04 08:47:02,954 - DEBUG - loaded event fired
+2025-12-04 08:47:51,885 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-04 08:47:51,892 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-04 08:47:52,222 - DEBUG - _pywebviewready event fired
+2025-12-04 08:47:52,276 - DEBUG - loaded event fired
+2025-12-04 08:49:18,642 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-04 08:49:18,643 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-04 08:49:18,953 - DEBUG - _pywebviewready event fired
+2025-12-04 08:49:18,983 - DEBUG - loaded event fired
+2025-12-04 08:49:33,969 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-04 08:49:33,976 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-04 08:49:34,140 - DEBUG - _pywebviewready event fired
+2025-12-04 08:49:34,159 - DEBUG - loaded event fired
+2025-12-04 08:49:48,826 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-04 08:49:48,828 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-04 08:49:48,913 - DEBUG - _pywebviewready event fired
+2025-12-04 08:49:48,953 - DEBUG - loaded event fired
+2025-12-04 08:52:26,974 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-04 08:52:26,999 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-04 08:52:27,218 - DEBUG - _pywebviewready event fired
+2025-12-04 08:52:27,250 - DEBUG - loaded event fired
+2025-12-04 08:52:44,013 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-04 08:52:44,041 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-04 08:52:44,245 - DEBUG - _pywebviewready event fired
+2025-12-04 08:52:44,279 - DEBUG - loaded event fired
+2025-12-04 08:54:17,326 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-04 08:54:17,399 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-04 08:54:17,690 - DEBUG - _pywebviewready event fired
+2025-12-04 08:54:17,706 - DEBUG - loaded event fired
+2025-12-04 08:54:50,601 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-04 08:54:50,607 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-04 08:54:50,871 - DEBUG - _pywebviewready event fired
+2025-12-04 08:54:50,906 - DEBUG - loaded event fired
+2025-12-04 08:59:19,082 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-04 08:59:19,111 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-04 08:59:19,412 - DEBUG - _pywebviewready event fired
+2025-12-04 08:59:19,444 - DEBUG - loaded event fired
+2025-12-04 08:59:53,807 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-04 08:59:53,815 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-04 08:59:54,115 - DEBUG - _pywebviewready event fired
+2025-12-04 08:59:54,131 - DEBUG - loaded event fired
+2025-12-04 09:00:11,621 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-04 09:00:11,642 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-04 09:00:12,038 - DEBUG - _pywebviewready event fired
+2025-12-04 09:00:12,080 - DEBUG - loaded event fired
+2025-12-04 11:46:27,757 - ERROR - Exceção não tratada
+Traceback (most recent call last):
+  File "c:\Users\Salum\OneDrive\files\personal_projects\focus-timer\main.py", line 45, in <module>
+    api = API(stopwatch, controller, mouse_monitor)
+  File "c:\Users\Salum\OneDrive\files\personal_projects\focus-timer\core\api.py", line 9, in __init__
+    self.indicators = IndicadorManager()
+                      ~~~~~~~~~~~~~~~~^^
+  File "c:\Users\Salum\OneDrive\files\personal_projects\focus-timer\core\firebase\registers.py", line 43, in __init__
+    self.df = pd.DataFrame(get_registers_by_period(self.period))
+                           ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "c:\Users\Salum\OneDrive\files\personal_projects\focus-timer\core\firebase\registers.py", line 12, in get_registers_by_period
+    year, month = period.split("-")
+                  ^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'split'
+2025-12-04 11:49:54,009 - DEBUG - Using WinForms / Chromium
+2025-12-04 11:49:54,223 - DEBUG - Comon path for local URLs: c:\Users\Salum\OneDrive\files\personal_projects\focus-timer\frontend
+2025-12-04 11:49:54,227 - DEBUG - HTTP server root path: c:\Users\Salum\OneDrive\files\personal_projects\focus-timer\frontend
+2025-12-04 11:49:58,557 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-04 11:49:58,620 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-04 11:49:59,572 - DEBUG - _pywebviewready event fired
+2025-12-04 11:49:59,659 - DEBUG - loaded event fired
+2025-12-04 11:50:01,742 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-04 11:50:01,819 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-04 11:50:02,228 - DEBUG - _pywebviewready event fired
+2025-12-04 11:50:02,269 - DEBUG - loaded event fired
+2025-12-04 11:50:37,628 - ERROR - Traceback (most recent call last):
+  File "C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\util.py", line 254, in _call
+    result = func(*func_params)
+TypeError: API.get_registers() takes 1 positional argument but 2 were given
+
+2025-12-04 12:06:08,293 - DEBUG - Using WinForms / Chromium
+2025-12-04 12:06:08,452 - DEBUG - Comon path for local URLs: c:\Users\Salum\OneDrive\files\personal_projects\focus-timer\frontend
+2025-12-04 12:06:08,454 - DEBUG - HTTP server root path: c:\Users\Salum\OneDrive\files\personal_projects\focus-timer\frontend
+2025-12-04 12:06:11,002 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-04 12:06:11,019 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-04 12:06:11,610 - DEBUG - _pywebviewready event fired
+2025-12-04 12:06:11,634 - DEBUG - loaded event fired
+2025-12-04 12:06:19,868 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-04 12:06:19,949 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-04 12:06:20,249 - DEBUG - _pywebviewready event fired
+2025-12-04 12:06:20,277 - DEBUG - loaded event fired
+2025-12-04 12:06:27,009 - ERROR - Traceback (most recent call last):
+  File "C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\util.py", line 254, in _call
+    result = func(*func_params)
+  File "c:\Users\Salum\OneDrive\files\personal_projects\focus-timer\core\api.py", line 54, in get_total_hours
+    return self.indicators.get_total_time(self.registers)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^
+TypeError: IndicadorManager.get_total_time() takes 1 positional argument but 2 were given
+
+2025-12-04 12:06:27,662 - ERROR - Traceback (most recent call last):
+  File "C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\util.py", line 254, in _call
+    result = func(*func_params)
+  File "c:\Users\Salum\OneDrive\files\personal_projects\focus-timer\core\api.py", line 54, in get_total_hours
+    return self.indicators.get_total_time(self.registers)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^
+TypeError: IndicadorManager.get_total_time() takes 1 positional argument but 2 were given
+
+2025-12-04 12:08:47,918 - DEBUG - Using WinForms / Chromium
+2025-12-04 12:08:48,025 - DEBUG - Comon path for local URLs: c:\Users\Salum\OneDrive\files\personal_projects\focus-timer\frontend
+2025-12-04 12:08:48,026 - DEBUG - HTTP server root path: c:\Users\Salum\OneDrive\files\personal_projects\focus-timer\frontend
+2025-12-04 12:08:50,144 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-04 12:08:50,202 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-04 12:08:50,843 - DEBUG - _pywebviewready event fired
+2025-12-04 12:08:50,922 - DEBUG - loaded event fired
+2025-12-04 12:09:01,948 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-04 12:09:02,024 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-04 12:09:02,329 - DEBUG - _pywebviewready event fired
+2025-12-04 12:09:02,349 - DEBUG - loaded event fired
+2025-12-04 12:09:31,566 - ERROR - Traceback (most recent call last):
+  File "C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\util.py", line 254, in _call
+    result = func(*func_params)
+  File "c:\Users\Salum\OneDrive\files\personal_projects\focus-timer\core\api.py", line 54, in get_total_hours
+    return self.indicators.get_total_time(self.registers)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "c:\Users\Salum\OneDrive\files\personal_projects\focus-timer\core\firebase\registers.py", line 48, in get_total_time
+    df_timedelta = pd.to_timedelta(registers["actual_duration"])
+                                   ~~~~~~~~~^^^^^^^^^^^^^^^^^^^
+TypeError: list indices must be integers or slices, not str
+
+2025-12-04 12:09:58,374 - ERROR - Traceback (most recent call last):
+  File "C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\util.py", line 254, in _call
+    result = func(*func_params)
+  File "c:\Users\Salum\OneDrive\files\personal_projects\focus-timer\core\api.py", line 54, in get_total_hours
+    return self.indicators.get_total_time(self.registers)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "c:\Users\Salum\OneDrive\files\personal_projects\focus-timer\core\firebase\registers.py", line 48, in get_total_time
+    df_timedelta = pd.to_timedelta(registers["actual_duration"])
+                                   ~~~~~~~~~^^^^^^^^^^^^^^^^^^^
+TypeError: list indices must be integers or slices, not str
+
+2025-12-04 12:11:09,290 - DEBUG - Using WinForms / Chromium
+2025-12-04 12:11:09,431 - DEBUG - Comon path for local URLs: c:\Users\Salum\OneDrive\files\personal_projects\focus-timer\frontend
+2025-12-04 12:11:09,432 - DEBUG - HTTP server root path: c:\Users\Salum\OneDrive\files\personal_projects\focus-timer\frontend
+2025-12-04 12:11:12,165 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-04 12:11:12,198 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-04 12:11:12,664 - DEBUG - _pywebviewready event fired
+2025-12-04 12:11:12,693 - DEBUG - loaded event fired
+2025-12-04 12:11:27,893 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-04 12:11:27,938 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-04 12:11:28,404 - DEBUG - _pywebviewready event fired
+2025-12-04 12:11:28,426 - DEBUG - loaded event fired
+2025-12-04 12:11:36,743 - ERROR - Traceback (most recent call last):
+  File "C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\util.py", line 254, in _call
+    result = func(*func_params)
+  File "c:\Users\Salum\OneDrive\files\personal_projects\focus-timer\core\api.py", line 54, in get_total_hours
+    return self.indicators.get_total_time(self.registers)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "c:\Users\Salum\OneDrive\files\personal_projects\focus-timer\core\firebase\registers.py", line 48, in get_total_time
+    df = pd.DataFrame(registers["actual_duration"])
+                      ~~~~~~~~~^^^^^^^^^^^^^^^^^^^
+TypeError: list indices must be integers or slices, not str
+
+2025-12-04 12:11:36,755 - ERROR - Traceback (most recent call last):
+  File "C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\util.py", line 254, in _call
+    result = func(*func_params)
+  File "c:\Users\Salum\OneDrive\files\personal_projects\focus-timer\core\api.py", line 54, in get_total_hours
+    return self.indicators.get_total_time(self.registers)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "c:\Users\Salum\OneDrive\files\personal_projects\focus-timer\core\firebase\registers.py", line 48, in get_total_time
+    df = pd.DataFrame(registers["actual_duration"])
+                      ~~~~~~~~~^^^^^^^^^^^^^^^^^^^
+TypeError: list indices must be integers or slices, not str
+
+2025-12-04 12:12:37,765 - DEBUG - Using WinForms / Chromium
+2025-12-04 12:12:37,906 - DEBUG - Comon path for local URLs: c:\Users\Salum\OneDrive\files\personal_projects\focus-timer\frontend
+2025-12-04 12:12:37,907 - DEBUG - HTTP server root path: c:\Users\Salum\OneDrive\files\personal_projects\focus-timer\frontend
+2025-12-04 12:12:40,229 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-04 12:12:40,291 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-04 12:12:40,445 - DEBUG - _pywebviewready event fired
+2025-12-04 12:12:40,492 - DEBUG - loaded event fired
+2025-12-04 12:12:50,964 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-04 12:12:51,012 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-04 12:12:51,278 - DEBUG - _pywebviewready event fired
+2025-12-04 12:12:51,307 - DEBUG - loaded event fired
+2025-12-04 12:18:42,580 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-04 12:18:42,586 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-04 12:18:42,908 - DEBUG - _pywebviewready event fired
+2025-12-04 12:18:42,924 - DEBUG - loaded event fired
+2025-12-04 12:19:10,484 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-04 12:19:10,515 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-04 12:19:10,805 - DEBUG - _pywebviewready event fired
+2025-12-04 12:19:10,828 - DEBUG - loaded event fired
+2025-12-04 12:42:27,355 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-04 12:42:27,375 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-04 12:42:27,531 - DEBUG - _pywebviewready event fired
+2025-12-04 12:42:27,557 - DEBUG - loaded event fired
+2025-12-04 12:43:04,841 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-04 12:43:04,858 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-04 12:43:05,147 - DEBUG - _pywebviewready event fired
+2025-12-04 12:43:05,162 - DEBUG - loaded event fired
+2025-12-04 12:49:06,240 - DEBUG - Using WinForms / Chromium
+2025-12-04 12:49:06,405 - DEBUG - Comon path for local URLs: c:\Users\Salum\OneDrive\files\personal_projects\focus-timer\frontend
+2025-12-04 12:49:06,405 - DEBUG - HTTP server root path: c:\Users\Salum\OneDrive\files\personal_projects\focus-timer\frontend
+2025-12-04 12:49:09,442 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-04 12:49:09,485 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-04 12:49:09,963 - DEBUG - _pywebviewready event fired
+2025-12-04 12:49:09,980 - DEBUG - loaded event fired
+2025-12-04 12:49:22,508 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-04 12:49:22,540 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-04 12:49:22,956 - DEBUG - _pywebviewready event fired
+2025-12-04 12:49:22,971 - DEBUG - loaded event fired
+2025-12-04 14:11:01,933 - DEBUG - Using WinForms / Chromium
+2025-12-04 14:11:02,149 - DEBUG - Comon path for local URLs: c:\Users\Salum\OneDrive\files\personal_projects\focus-timer\frontend
+2025-12-04 14:11:02,158 - DEBUG - HTTP server root path: c:\Users\Salum\OneDrive\files\personal_projects\focus-timer\frontend
+2025-12-04 14:11:05,087 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-04 14:11:05,153 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-04 14:11:05,702 - DEBUG - _pywebviewready event fired
+2025-12-04 14:11:05,768 - DEBUG - loaded event fired
+2025-12-04 14:11:14,990 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-04 14:11:15,007 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-04 14:11:15,491 - DEBUG - _pywebviewready event fired
+2025-12-04 14:11:15,511 - DEBUG - loaded event fired
+2025-12-04 14:25:52,827 - DEBUG - Using WinForms / Chromium
+2025-12-04 14:25:53,004 - DEBUG - Comon path for local URLs: c:\Users\Salum\OneDrive\files\personal_projects\focus-timer\frontend
+2025-12-04 14:25:53,007 - DEBUG - HTTP server root path: c:\Users\Salum\OneDrive\files\personal_projects\focus-timer\frontend
+2025-12-04 14:25:55,188 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-04 14:25:55,343 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-04 14:25:55,806 - DEBUG - _pywebviewready event fired
+2025-12-04 14:25:55,879 - DEBUG - loaded event fired
+2025-12-04 14:26:04,467 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-04 14:26:04,503 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-04 14:26:04,959 - DEBUG - _pywebviewready event fired
+2025-12-04 14:26:04,977 - DEBUG - loaded event fired
+2025-12-04 14:27:30,531 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-04 14:27:30,617 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-04 14:27:30,974 - DEBUG - _pywebviewready event fired
+2025-12-04 14:27:31,016 - DEBUG - loaded event fired
+2025-12-04 14:27:32,045 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-04 14:27:32,092 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-04 14:27:32,280 - DEBUG - _pywebviewready event fired
+2025-12-04 14:27:32,305 - DEBUG - loaded event fired
+2025-12-04 14:27:35,562 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-04 14:27:35,580 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-04 14:27:35,934 - DEBUG - _pywebviewready event fired
+2025-12-04 14:27:35,977 - DEBUG - loaded event fired
+2025-12-04 14:28:38,716 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-04 14:28:38,729 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-04 14:28:38,982 - DEBUG - _pywebviewready event fired
+2025-12-04 14:28:39,007 - DEBUG - loaded event fired
+2025-12-04 14:34:41,867 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-04 14:34:41,887 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-04 14:34:42,272 - DEBUG - _pywebviewready event fired
+2025-12-04 14:34:42,329 - DEBUG - loaded event fired
+2025-12-04 14:36:28,054 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-04 14:36:28,107 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-04 14:36:28,386 - DEBUG - _pywebviewready event fired
+2025-12-04 14:36:28,410 - DEBUG - loaded event fired
+2025-12-04 14:40:59,189 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-04 14:40:59,209 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-04 14:40:59,560 - DEBUG - _pywebviewready event fired
+2025-12-04 14:40:59,593 - DEBUG - loaded event fired
+2025-12-04 14:46:33,902 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-04 14:46:33,959 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-04 14:46:34,320 - DEBUG - _pywebviewready event fired
+2025-12-04 14:46:34,343 - DEBUG - loaded event fired
+2025-12-04 14:48:01,079 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-04 14:48:01,099 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-04 14:48:01,615 - DEBUG - _pywebviewready event fired
+2025-12-04 14:48:01,659 - DEBUG - loaded event fired
+2025-12-04 14:48:07,122 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-04 14:48:07,152 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-04 14:48:07,616 - DEBUG - _pywebviewready event fired
+2025-12-04 14:48:07,640 - DEBUG - loaded event fired
+2025-12-04 14:48:27,475 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-04 14:48:27,508 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-04 14:48:27,749 - DEBUG - _pywebviewready event fired
+2025-12-04 14:48:27,770 - DEBUG - loaded event fired
+2025-12-04 14:48:37,252 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-04 14:48:37,262 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-04 14:48:37,600 - DEBUG - _pywebviewready event fired
+2025-12-04 14:48:37,621 - DEBUG - loaded event fired
+2025-12-04 14:49:01,688 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-04 14:49:01,709 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-04 14:49:02,207 - DEBUG - _pywebviewready event fired
+2025-12-04 14:49:02,245 - DEBUG - loaded event fired
+2025-12-04 14:49:06,149 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-04 14:49:06,168 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-04 14:49:06,680 - DEBUG - _pywebviewready event fired
+2025-12-04 14:49:06,702 - DEBUG - loaded event fired
+2025-12-04 14:51:29,013 - DEBUG - Using WinForms / Chromium
+2025-12-04 14:51:29,179 - DEBUG - Comon path for local URLs: c:\Users\Salum\OneDrive\files\personal_projects\focus-timer\frontend
+2025-12-04 14:51:29,185 - DEBUG - HTTP server root path: c:\Users\Salum\OneDrive\files\personal_projects\focus-timer\frontend
+2025-12-04 14:51:31,732 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-04 14:51:31,780 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-04 14:51:32,531 - DEBUG - _pywebviewready event fired
+2025-12-04 14:51:32,591 - DEBUG - loaded event fired
+2025-12-04 14:51:42,756 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-04 14:51:42,818 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-04 14:51:43,265 - DEBUG - _pywebviewready event fired
+2025-12-04 14:51:43,292 - DEBUG - loaded event fired
+2025-12-04 14:51:58,724 - ERROR - Traceback (most recent call last):
+  File "C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\util.py", line 254, in _call
+    result = func(*func_params)
+  File "c:\Users\Salum\OneDrive\files\personal_projects\focus-timer\core\api.py", line 50, in get_registers
+    self.registers = get_registers_by_period(self.period)
+                     ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "c:\Users\Salum\OneDrive\files\personal_projects\focus-timer\core\firebase\registers.py", line 12, in get_registers_by_period
+    year, month = period.split("-")
+    ^^^^^^^^^^^
+ValueError: not enough values to unpack (expected 2, got 1)
+
+2025-12-04 14:56:57,058 - DEBUG - Using WinForms / Chromium
+2025-12-04 14:56:57,195 - DEBUG - Comon path for local URLs: c:\Users\Salum\OneDrive\files\personal_projects\focus-timer\frontend
+2025-12-04 14:56:57,195 - DEBUG - HTTP server root path: c:\Users\Salum\OneDrive\files\personal_projects\focus-timer\frontend
+2025-12-04 14:57:00,004 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-04 14:57:00,019 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-04 14:57:00,532 - DEBUG - _pywebviewready event fired
+2025-12-04 14:57:00,622 - DEBUG - loaded event fired
+2025-12-04 14:57:04,994 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-04 14:57:05,042 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-04 14:57:05,597 - DEBUG - _pywebviewready event fired
+2025-12-04 14:57:05,624 - DEBUG - loaded event fired
+2025-12-04 14:58:39,789 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-04 14:58:39,811 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-04 14:58:40,104 - DEBUG - _pywebviewready event fired
+2025-12-04 14:58:40,130 - DEBUG - loaded event fired
+2025-12-04 14:59:15,054 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-04 14:59:15,074 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-04 14:59:15,481 - DEBUG - _pywebviewready event fired
+2025-12-04 14:59:15,504 - DEBUG - loaded event fired
+2025-12-04 14:59:33,345 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-04 14:59:33,383 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-04 14:59:33,778 - DEBUG - _pywebviewready event fired
+2025-12-04 14:59:33,794 - DEBUG - loaded event fired
+2025-12-04 14:59:40,779 - ERROR - Traceback (most recent call last):
+  File "C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\util.py", line 255, in _call
+    result = json.dumps(result).replace('\\', '\\\\').replace("'", "\\'")
+             ~~~~~~~~~~^^^^^^^^
+  File "C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\json\__init__.py", line 231, in dumps
+    return _default_encoder.encode(obj)
+           ~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\json\encoder.py", line 200, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+  File "C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\json\encoder.py", line 261, in iterencode
+    return _iterencode(o, 0)
+  File "C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\json\encoder.py", line 180, in default
+    raise TypeError(f'Object of type {o.__class__.__name__} '
+                    f'is not JSON serializable')
+TypeError: Object of type Timedelta is not JSON serializable
+
+2025-12-04 14:59:42,022 - ERROR - Traceback (most recent call last):
+  File "C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\util.py", line 255, in _call
+    result = json.dumps(result).replace('\\', '\\\\').replace("'", "\\'")
+             ~~~~~~~~~~^^^^^^^^
+  File "C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\json\__init__.py", line 231, in dumps
+    return _default_encoder.encode(obj)
+           ~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\json\encoder.py", line 200, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+  File "C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\json\encoder.py", line 261, in iterencode
+    return _iterencode(o, 0)
+  File "C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\json\encoder.py", line 180, in default
+    raise TypeError(f'Object of type {o.__class__.__name__} '
+                    f'is not JSON serializable')
+TypeError: Object of type Timedelta is not JSON serializable
+
+2025-12-04 15:00:16,075 - DEBUG - Using WinForms / Chromium
+2025-12-04 15:00:16,202 - DEBUG - Comon path for local URLs: c:\Users\Salum\OneDrive\files\personal_projects\focus-timer\frontend
+2025-12-04 15:00:16,207 - DEBUG - HTTP server root path: c:\Users\Salum\OneDrive\files\personal_projects\focus-timer\frontend
+2025-12-04 15:00:18,798 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-04 15:00:18,877 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-04 15:00:19,397 - DEBUG - _pywebviewready event fired
+2025-12-04 15:00:19,432 - DEBUG - loaded event fired
+2025-12-04 15:02:24,011 - DEBUG - Using WinForms / Chromium
+2025-12-04 15:02:24,142 - DEBUG - Comon path for local URLs: c:\Users\Salum\OneDrive\files\personal_projects\focus-timer\frontend
+2025-12-04 15:02:24,152 - DEBUG - HTTP server root path: c:\Users\Salum\OneDrive\files\personal_projects\focus-timer\frontend
+2025-12-04 15:02:26,257 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-04 15:02:26,286 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-04 15:02:27,071 - DEBUG - _pywebviewready event fired
+2025-12-04 15:02:27,146 - DEBUG - loaded event fired
+2025-12-04 15:03:02,990 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-04 15:03:03,022 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-04 15:03:03,316 - DEBUG - _pywebviewready event fired
+2025-12-04 15:03:03,332 - DEBUG - loaded event fired
+2025-12-04 15:03:13,175 - ERROR - Traceback (most recent call last):
+  File "C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\util.py", line 255, in _call
+    result = json.dumps(result).replace('\\', '\\\\').replace("'", "\\'")
+             ~~~~~~~~~~^^^^^^^^
+  File "C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\json\__init__.py", line 231, in dumps
+    return _default_encoder.encode(obj)
+           ~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\json\encoder.py", line 200, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+  File "C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\json\encoder.py", line 261, in iterencode
+    return _iterencode(o, 0)
+  File "C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\json\encoder.py", line 180, in default
+    raise TypeError(f'Object of type {o.__class__.__name__} '
+                    f'is not JSON serializable')
+TypeError: Object of type Timedelta is not JSON serializable
+
+2025-12-04 15:03:51,353 - ERROR - Traceback (most recent call last):
+  File "C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\util.py", line 255, in _call
+    result = json.dumps(result).replace('\\', '\\\\').replace("'", "\\'")
+             ~~~~~~~~~~^^^^^^^^
+  File "C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\json\__init__.py", line 231, in dumps
+    return _default_encoder.encode(obj)
+           ~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\json\encoder.py", line 200, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+  File "C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\json\encoder.py", line 261, in iterencode
+    return _iterencode(o, 0)
+  File "C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\json\encoder.py", line 180, in default
+    raise TypeError(f'Object of type {o.__class__.__name__} '
+                    f'is not JSON serializable')
+TypeError: Object of type Timedelta is not JSON serializable
+
+2025-12-04 15:03:52,449 - ERROR - Traceback (most recent call last):
+  File "C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\util.py", line 255, in _call
+    result = json.dumps(result).replace('\\', '\\\\').replace("'", "\\'")
+             ~~~~~~~~~~^^^^^^^^
+  File "C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\json\__init__.py", line 231, in dumps
+    return _default_encoder.encode(obj)
+           ~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\json\encoder.py", line 200, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+  File "C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\json\encoder.py", line 261, in iterencode
+    return _iterencode(o, 0)
+  File "C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\json\encoder.py", line 180, in default
+    raise TypeError(f'Object of type {o.__class__.__name__} '
+                    f'is not JSON serializable')
+TypeError: Object of type Timedelta is not JSON serializable
+
+2025-12-04 15:07:52,398 - DEBUG - Using WinForms / Chromium
+2025-12-04 15:07:52,558 - DEBUG - Comon path for local URLs: c:\Users\Salum\OneDrive\files\personal_projects\focus-timer\frontend
+2025-12-04 15:07:52,566 - DEBUG - HTTP server root path: c:\Users\Salum\OneDrive\files\personal_projects\focus-timer\frontend
+2025-12-04 15:07:55,042 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-04 15:07:55,164 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-04 15:07:55,806 - DEBUG - _pywebviewready event fired
+2025-12-04 15:07:55,868 - DEBUG - loaded event fired
+2025-12-04 15:08:24,539 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-04 15:08:24,569 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-04 15:08:24,974 - DEBUG - _pywebviewready event fired
+2025-12-04 15:08:25,036 - DEBUG - loaded event fired
+2025-12-04 15:09:56,952 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-04 15:09:56,973 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-04 15:09:57,336 - DEBUG - _pywebviewready event fired
+2025-12-04 15:09:57,369 - DEBUG - loaded event fired
+2025-12-04 15:10:23,004 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-04 15:10:23,037 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-04 15:10:23,375 - DEBUG - _pywebviewready event fired
+2025-12-04 15:10:23,394 - DEBUG - loaded event fired
+2025-12-04 15:13:37,527 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-04 15:13:37,550 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-04 15:13:37,861 - DEBUG - _pywebviewready event fired
+2025-12-04 15:13:37,916 - DEBUG - loaded event fired
+2025-12-04 15:15:39,685 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-04 15:15:39,701 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-04 15:15:40,087 - DEBUG - _pywebviewready event fired
+2025-12-04 15:15:40,108 - DEBUG - loaded event fired
+2025-12-04 15:16:02,481 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-04 15:16:02,501 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-04 15:16:02,883 - DEBUG - _pywebviewready event fired
+2025-12-04 15:16:02,911 - DEBUG - loaded event fired
+2025-12-04 15:16:34,148 - DEBUG - Using WinForms / Chromium
+2025-12-04 15:16:34,262 - DEBUG - Comon path for local URLs: c:\Users\Salum\OneDrive\files\personal_projects\focus-timer\frontend
+2025-12-04 15:16:34,265 - DEBUG - HTTP server root path: c:\Users\Salum\OneDrive\files\personal_projects\focus-timer\frontend
+2025-12-04 15:16:36,816 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-04 15:16:36,834 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-04 15:16:37,479 - DEBUG - _pywebviewready event fired
+2025-12-04 15:16:37,515 - DEBUG - loaded event fired
+2025-12-04 15:16:48,567 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-04 15:16:48,602 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-04 15:16:49,221 - DEBUG - _pywebviewready event fired
+2025-12-04 15:16:49,247 - DEBUG - loaded event fired
+2025-12-05 06:36:40,358 - DEBUG - Using WinForms / Chromium
+2025-12-05 06:36:40,721 - DEBUG - Comon path for local URLs: C:\Users\Salum\OneDrive\files\personal_projects\focus-timer\frontend
+2025-12-05 06:36:40,724 - DEBUG - HTTP server root path: C:\Users\Salum\OneDrive\files\personal_projects\focus-timer\frontend
+2025-12-05 06:36:46,401 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-05 06:36:46,532 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-05 06:36:47,275 - DEBUG - _pywebviewready event fired
+2025-12-05 06:36:47,305 - DEBUG - loaded event fired
+2025-12-05 06:36:59,445 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-05 06:36:59,456 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-05 06:36:59,740 - DEBUG - _pywebviewready event fired
+2025-12-05 06:36:59,754 - DEBUG - loaded event fired
+2025-12-05 06:43:47,434 - DEBUG - Using WinForms / Chromium
+2025-12-05 06:43:47,602 - DEBUG - Comon path for local URLs: c:\Users\Salum\OneDrive\files\personal_projects\focus-timer\frontend
+2025-12-05 06:43:47,604 - DEBUG - HTTP server root path: c:\Users\Salum\OneDrive\files\personal_projects\focus-timer\frontend
+2025-12-05 06:43:50,340 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-05 06:43:50,386 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-05 06:43:50,775 - DEBUG - _pywebviewready event fired
+2025-12-05 06:43:50,845 - DEBUG - loaded event fired
+2025-12-05 06:43:55,692 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-05 06:43:55,814 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-05 06:43:56,358 - DEBUG - _pywebviewready event fired
+2025-12-05 06:43:56,395 - DEBUG - loaded event fired
+2025-12-05 06:44:01,034 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-05 06:44:01,051 - ERROR - Traceback (most recent call last):
+  File "C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\util.py", line 254, in _call
+    result = func(*func_params)
+  File "c:\Users\Salum\OneDrive\files\personal_projects\focus-timer\core\api.py", line 50, in get_registers
+    self.registers = get_registers_by_period(self.period)
+                     ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "c:\Users\Salum\OneDrive\files\personal_projects\focus-timer\core\firebase\registers.py", line 12, in get_registers_by_period
+    year, month = period.split("-")
+    ^^^^^^^^^^^
+ValueError: not enough values to unpack (expected 2, got 1)
+
+2025-12-05 06:44:01,086 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-05 06:44:01,571 - DEBUG - _pywebviewready event fired
+2025-12-05 06:44:01,603 - DEBUG - loaded event fired
+2025-12-05 06:44:04,417 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-05 06:44:04,441 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-05 06:44:04,957 - DEBUG - _pywebviewready event fired
+2025-12-05 06:44:04,992 - DEBUG - loaded event fired
+2025-12-05 06:44:09,057 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-05 06:44:09,176 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-05 06:44:09,794 - DEBUG - _pywebviewready event fired
+2025-12-05 06:44:09,916 - DEBUG - loaded event fired
+2025-12-05 06:44:10,989 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-05 06:44:11,053 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-05 06:44:11,525 - DEBUG - _pywebviewready event fired
+2025-12-05 06:44:11,551 - DEBUG - loaded event fired
+2025-12-05 06:48:36,246 - DEBUG - Using WinForms / Chromium
+2025-12-05 06:48:36,439 - DEBUG - Comon path for local URLs: c:\Users\Salum\OneDrive\files\personal_projects\focus-timer\frontend
+2025-12-05 06:48:36,458 - DEBUG - HTTP server root path: c:\Users\Salum\OneDrive\files\personal_projects\focus-timer\frontend
+2025-12-05 06:48:39,189 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-05 06:48:39,240 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-05 06:48:39,971 - DEBUG - _pywebviewready event fired
+2025-12-05 06:48:40,068 - DEBUG - loaded event fired
+2025-12-05 06:48:49,948 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-05 06:48:49,988 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-05 06:48:50,437 - DEBUG - _pywebviewready event fired
+2025-12-05 06:48:50,457 - DEBUG - loaded event fired
+2025-12-05 06:48:58,459 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-05 06:48:58,574 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-05 06:48:59,038 - DEBUG - _pywebviewready event fired
+2025-12-05 06:48:59,089 - DEBUG - loaded event fired
+2025-12-05 06:49:10,157 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-05 06:49:10,240 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-05 06:49:10,685 - DEBUG - _pywebviewready event fired
+2025-12-05 06:49:10,732 - DEBUG - loaded event fired
+2025-12-05 06:56:47,016 - DEBUG - Using WinForms / Chromium
+2025-12-05 06:56:47,186 - DEBUG - Comon path for local URLs: c:\Users\Salum\OneDrive\files\personal_projects\focus-timer\frontend
+2025-12-05 06:56:47,199 - DEBUG - HTTP server root path: c:\Users\Salum\OneDrive\files\personal_projects\focus-timer\frontend
+2025-12-05 06:56:58,187 - DEBUG - Using WinForms / Chromium
+2025-12-05 06:56:58,355 - DEBUG - Comon path for local URLs: c:\Users\Salum\OneDrive\files\personal_projects\focus-timer\frontend
+2025-12-05 06:56:58,362 - DEBUG - HTTP server root path: c:\Users\Salum\OneDrive\files\personal_projects\focus-timer\frontend
+2025-12-05 06:57:00,880 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-05 06:57:00,916 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-05 06:57:02,042 - DEBUG - _pywebviewready event fired
+2025-12-05 06:57:02,061 - DEBUG - loaded event fired
+2025-12-05 06:57:10,695 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-05 06:57:10,734 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-05 06:57:11,211 - DEBUG - _pywebviewready event fired
+2025-12-05 06:57:11,286 - DEBUG - loaded event fired
+2025-12-05 06:57:12,752 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-05 06:57:12,773 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-05 06:57:13,239 - DEBUG - _pywebviewready event fired
+2025-12-05 06:57:13,266 - DEBUG - loaded event fired
+2025-12-05 06:57:17,932 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-05 06:57:17,942 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-05 06:57:18,374 - DEBUG - _pywebviewready event fired
+2025-12-05 06:57:18,435 - DEBUG - loaded event fired
+2025-12-05 06:57:21,028 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-05 06:57:21,124 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-05 06:57:21,659 - DEBUG - _pywebviewready event fired
+2025-12-05 06:57:21,691 - DEBUG - loaded event fired
+2025-12-05 06:57:22,979 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-05 06:57:23,070 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-05 06:57:23,583 - DEBUG - _pywebviewready event fired
+2025-12-05 06:57:23,610 - DEBUG - loaded event fired
+2025-12-05 06:57:36,929 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-05 06:57:36,956 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-05 06:57:37,470 - DEBUG - _pywebviewready event fired
+2025-12-05 06:57:37,539 - DEBUG - loaded event fired
+2025-12-05 06:58:37,244 - DEBUG - Using WinForms / Chromium
+2025-12-05 06:58:37,449 - DEBUG - Comon path for local URLs: c:\Users\Salum\OneDrive\files\personal_projects\focus-timer\frontend
+2025-12-05 06:58:37,450 - DEBUG - HTTP server root path: c:\Users\Salum\OneDrive\files\personal_projects\focus-timer\frontend
+2025-12-05 06:58:40,396 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-05 06:58:40,503 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-05 06:58:40,924 - DEBUG - _pywebviewready event fired
+2025-12-05 06:58:40,957 - DEBUG - loaded event fired
+2025-12-05 06:58:48,793 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-05 06:58:48,809 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-05 06:58:49,287 - DEBUG - _pywebviewready event fired
+2025-12-05 06:58:49,324 - DEBUG - loaded event fired
+2025-12-05 06:58:51,471 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-05 06:58:51,499 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-05 06:58:52,084 - DEBUG - _pywebviewready event fired
+2025-12-05 06:58:52,131 - DEBUG - loaded event fired
+2025-12-05 06:58:53,462 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-05 06:58:53,602 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-05 06:58:54,167 - DEBUG - _pywebviewready event fired
+2025-12-05 06:58:54,189 - DEBUG - loaded event fired
+2025-12-05 07:08:16,348 - DEBUG - Using WinForms / Chromium
+2025-12-05 07:08:16,489 - DEBUG - Comon path for local URLs: c:\Users\Salum\OneDrive\files\personal_projects\focus-timer\frontend
+2025-12-05 07:08:16,494 - DEBUG - HTTP server root path: c:\Users\Salum\OneDrive\files\personal_projects\focus-timer\frontend
+2025-12-05 07:08:18,622 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-05 07:08:18,710 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-05 07:08:19,285 - DEBUG - _pywebviewready event fired
+2025-12-05 07:08:19,320 - DEBUG - loaded event fired
+2025-12-05 07:08:33,615 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-05 07:08:33,639 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-05 07:08:34,074 - DEBUG - _pywebviewready event fired
+2025-12-05 07:08:34,105 - DEBUG - loaded event fired
+2025-12-05 07:08:40,449 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-05 07:08:40,486 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-05 07:08:41,209 - DEBUG - _pywebviewready event fired
+2025-12-05 07:08:41,238 - DEBUG - loaded event fired
+2025-12-05 07:08:55,425 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-05 07:08:55,569 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-05 07:08:56,204 - DEBUG - _pywebviewready event fired
+2025-12-05 07:08:56,241 - DEBUG - loaded event fired
+2025-12-05 07:11:23,610 - DEBUG - Using WinForms / Chromium
+2025-12-05 07:11:23,847 - DEBUG - Comon path for local URLs: c:\Users\Salum\OneDrive\files\personal_projects\focus-timer\frontend
+2025-12-05 07:11:23,854 - DEBUG - HTTP server root path: c:\Users\Salum\OneDrive\files\personal_projects\focus-timer\frontend
+2025-12-05 07:11:26,254 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-05 07:11:26,313 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-05 07:11:27,487 - DEBUG - _pywebviewready event fired
+2025-12-05 07:11:27,514 - DEBUG - loaded event fired
+2025-12-05 07:11:36,962 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-05 07:11:37,031 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-05 07:11:37,579 - DEBUG - _pywebviewready event fired
+2025-12-05 07:11:37,614 - DEBUG - loaded event fired
+2025-12-05 07:11:38,105 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-05 07:11:38,119 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-05 07:11:38,730 - DEBUG - _pywebviewready event fired
+2025-12-05 07:11:38,878 - DEBUG - loaded event fired
+2025-12-05 07:11:40,679 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-05 07:11:40,750 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-05 07:11:41,238 - DEBUG - _pywebviewready event fired
+2025-12-05 07:11:41,275 - DEBUG - loaded event fired
+2025-12-05 07:11:43,022 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-05 07:11:43,099 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-05 07:11:43,670 - DEBUG - _pywebviewready event fired
+2025-12-05 07:11:43,745 - DEBUG - loaded event fired
+2025-12-05 07:11:45,225 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-05 07:11:45,249 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-05 07:11:45,762 - DEBUG - _pywebviewready event fired
+2025-12-05 07:11:45,804 - DEBUG - loaded event fired
+2025-12-05 07:27:38,273 - DEBUG - Using WinForms / Chromium
+2025-12-05 07:27:38,563 - DEBUG - Comon path for local URLs: c:\Users\Salum\OneDrive\files\personal_projects\focus-timer\frontend
+2025-12-05 07:27:38,580 - DEBUG - HTTP server root path: c:\Users\Salum\OneDrive\files\personal_projects\focus-timer\frontend
+2025-12-05 07:27:41,495 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-05 07:27:41,516 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-05 07:27:41,975 - DEBUG - _pywebviewready event fired
+2025-12-05 07:27:42,016 - DEBUG - loaded event fired
+2025-12-05 07:27:51,709 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-05 07:27:51,820 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-05 07:27:52,455 - DEBUG - _pywebviewready event fired
+2025-12-05 07:27:52,502 - DEBUG - loaded event fired
+2025-12-05 07:27:55,089 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-05 07:27:55,262 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-05 07:27:55,808 - DEBUG - _pywebviewready event fired
+2025-12-05 07:27:55,844 - DEBUG - loaded event fired
+2025-12-05 07:27:57,466 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-05 07:27:57,553 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-05 07:27:58,031 - DEBUG - _pywebviewready event fired
+2025-12-05 07:27:58,137 - DEBUG - loaded event fired
+2025-12-05 07:47:32,462 - DEBUG - Using WinForms / Chromium
+2025-12-05 07:47:32,619 - DEBUG - Comon path for local URLs: c:\Users\Salum\OneDrive\files\personal_projects\focus-timer\frontend
+2025-12-05 07:47:32,621 - DEBUG - HTTP server root path: c:\Users\Salum\OneDrive\files\personal_projects\focus-timer\frontend
+2025-12-05 07:47:35,903 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-05 07:47:35,942 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-05 07:47:37,020 - DEBUG - _pywebviewready event fired
+2025-12-05 07:47:37,096 - DEBUG - loaded event fired
+2025-12-05 07:47:50,828 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-05 07:47:50,924 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-05 07:47:51,355 - DEBUG - _pywebviewready event fired
+2025-12-05 07:47:51,374 - DEBUG - loaded event fired
+2025-12-05 07:49:20,056 - ERROR - Exceção não tratada
+Traceback (most recent call last):
+  File "c:\Users\Salum\OneDrive\files\personal_projects\focus-timer\main.py", line 48, in <module>
+    webview.create_window("Focus Timer", str(html_file), js_api=api, confirm_close=True, width=430, height=688, storage_path="pywebview_userdata",)
+    ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: create_window() got an unexpected keyword argument 'storage_path'
+2025-12-05 07:51:33,986 - ERROR - Exceção não tratada
+Traceback (most recent call last):
+  File "c:\Users\Salum\OneDrive\files\personal_projects\focus-timer\main.py", line 48, in <module>
+    webview.create_window("Focus Timer", str(html_file), js_api=api, confirm_close=True, width=430, height=688, storage_path="pywebview_userdata",)
+    ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: create_window() got an unexpected keyword argument 'storage_path'
+2025-12-05 07:57:57,303 - ERROR - Exceção não tratada
+Traceback (most recent call last):
+  File "c:\Users\Salum\OneDrive\files\personal_projects\focus-timer\main.py", line 48, in <module>
+    webview.create_window("Focus Timer", str(html_file), js_api=api, confirm_close=True, width=430, height=688, storage_path="pywebview_userdata",)
+    ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: create_window() got an unexpected keyword argument 'storage_path'
+2025-12-05 07:58:21,792 - ERROR - Exceção não tratada
+Traceback (most recent call last):
+  File "c:\Users\Salum\OneDrive\files\personal_projects\focus-timer\main.py", line 48, in <module>
+    webview.create_window("Focus Timer", str(html_file), js_api=api, confirm_close=True, width=430, height=688, storage_path="pywebview_userdata",)
+    ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: create_window() got an unexpected keyword argument 'storage_path'
+2025-12-05 07:59:12,660 - DEBUG - Using WinForms / Chromium
+2025-12-05 07:59:12,876 - DEBUG - Comon path for local URLs: c:\Users\Salum\OneDrive\files\personal_projects\focus-timer\frontend
+2025-12-05 07:59:12,888 - DEBUG - HTTP server root path: c:\Users\Salum\OneDrive\files\personal_projects\focus-timer\frontend
+2025-12-05 07:59:15,860 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-05 07:59:15,940 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-05 07:59:16,955 - DEBUG - _pywebviewready event fired
+2025-12-05 07:59:17,102 - DEBUG - loaded event fired
+2025-12-05 07:59:54,113 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-05 07:59:54,174 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-05 07:59:54,957 - DEBUG - _pywebviewready event fired
+2025-12-05 07:59:55,061 - DEBUG - loaded event fired
+2025-12-05 07:59:56,710 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-05 07:59:56,736 - ERROR - Traceback (most recent call last):
+  File "C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\util.py", line 254, in _call
+    result = func(*func_params)
+  File "c:\Users\Salum\OneDrive\files\personal_projects\focus-timer\core\api.py", line 50, in get_registers
+    self.registers = get_registers_by_period(self.period)
+                     ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "c:\Users\Salum\OneDrive\files\personal_projects\focus-timer\core\firebase\registers.py", line 12, in get_registers_by_period
+    year, month = period.split("-")
+    ^^^^^^^^^^^
+ValueError: not enough values to unpack (expected 2, got 1)
+
+2025-12-05 07:59:56,770 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-05 07:59:57,335 - DEBUG - _pywebviewready event fired
+2025-12-05 07:59:57,380 - DEBUG - loaded event fired
+2025-12-05 08:00:01,849 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-05 08:00:01,921 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-05 08:00:02,632 - DEBUG - _pywebviewready event fired
+2025-12-05 08:00:02,701 - DEBUG - loaded event fired
+2025-12-05 08:00:07,071 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-05 08:00:07,169 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-05 08:00:08,005 - DEBUG - _pywebviewready event fired
+2025-12-05 08:00:08,169 - DEBUG - loaded event fired
+2025-12-05 08:00:12,868 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-05 08:00:12,970 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-05 08:00:13,606 - DEBUG - _pywebviewready event fired
+2025-12-05 08:00:13,637 - DEBUG - loaded event fired
+2025-12-05 08:03:22,900 - DEBUG - Using WinForms / Chromium
+2025-12-05 08:03:23,036 - DEBUG - Comon path for local URLs: c:\Users\Salum\OneDrive\files\personal_projects\focus-timer\frontend
+2025-12-05 08:03:23,045 - DEBUG - HTTP server root path: c:\Users\Salum\OneDrive\files\personal_projects\focus-timer\frontend
+2025-12-05 08:03:25,772 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-05 08:03:25,792 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-05 08:03:26,142 - DEBUG - _pywebviewready event fired
+2025-12-05 08:03:26,168 - DEBUG - loaded event fired
+2025-12-05 08:03:30,086 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-05 08:03:30,111 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-05 08:03:30,641 - DEBUG - _pywebviewready event fired
+2025-12-05 08:03:30,711 - DEBUG - loaded event fired
+2025-12-05 08:03:31,186 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-05 08:03:31,326 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-05 08:03:31,821 - DEBUG - _pywebviewready event fired
+2025-12-05 08:03:31,850 - DEBUG - loaded event fired
+2025-12-05 08:04:40,042 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-05 08:04:40,078 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-05 08:04:40,208 - DEBUG - _pywebviewready event fired
+2025-12-05 08:04:40,247 - DEBUG - loaded event fired
+2025-12-05 08:04:44,199 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-05 08:04:44,207 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-05 08:04:44,698 - DEBUG - _pywebviewready event fired
+2025-12-05 08:04:44,739 - DEBUG - loaded event fired
+2025-12-05 08:04:46,434 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-05 08:04:46,461 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-05 08:04:46,882 - DEBUG - _pywebviewready event fired
+2025-12-05 08:04:46,929 - DEBUG - loaded event fired
+2025-12-05 08:05:06,310 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-05 08:05:06,349 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-05 08:05:06,962 - DEBUG - _pywebviewready event fired
+2025-12-05 08:05:07,018 - DEBUG - loaded event fired
+2025-12-05 08:06:04,179 - DEBUG - Using WinForms / Chromium
+2025-12-05 08:06:04,378 - DEBUG - Comon path for local URLs: c:\Users\Salum\OneDrive\files\personal_projects\focus-timer\frontend
+2025-12-05 08:06:04,393 - DEBUG - HTTP server root path: c:\Users\Salum\OneDrive\files\personal_projects\focus-timer\frontend
+2025-12-05 08:06:14,382 - DEBUG - Using WinForms / Chromium
+2025-12-05 08:06:14,555 - DEBUG - Comon path for local URLs: c:\Users\Salum\OneDrive\files\personal_projects\focus-timer\frontend
+2025-12-05 08:06:14,558 - DEBUG - HTTP server root path: c:\Users\Salum\OneDrive\files\personal_projects\focus-timer\frontend
+2025-12-05 08:06:17,456 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-05 08:06:17,499 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-05 08:06:17,602 - DEBUG - _pywebviewready event fired
+2025-12-05 08:06:17,651 - DEBUG - loaded event fired
+2025-12-05 08:06:24,610 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-05 08:06:24,647 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-05 08:06:25,232 - DEBUG - _pywebviewready event fired
+2025-12-05 08:06:25,325 - DEBUG - loaded event fired
+2025-12-05 08:06:28,757 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-05 08:06:28,903 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-05 08:06:29,452 - DEBUG - _pywebviewready event fired
+2025-12-05 08:06:29,491 - DEBUG - loaded event fired
+2025-12-05 08:06:32,616 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-05 08:06:32,632 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-05 08:06:33,182 - DEBUG - _pywebviewready event fired
+2025-12-05 08:06:33,239 - DEBUG - loaded event fired
+2025-12-05 08:08:28,372 - DEBUG - Using WinForms / Chromium
+2025-12-05 08:08:28,548 - DEBUG - Comon path for local URLs: c:\Users\Salum\OneDrive\files\personal_projects\focus-timer\frontend
+2025-12-05 08:08:28,566 - DEBUG - HTTP server root path: c:\Users\Salum\OneDrive\files\personal_projects\focus-timer\frontend
+2025-12-05 08:08:31,313 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-05 08:08:31,385 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-05 08:08:32,385 - DEBUG - _pywebviewready event fired
+2025-12-05 08:08:32,408 - DEBUG - loaded event fired
+2025-12-05 08:08:38,474 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-05 08:08:38,483 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-05 08:08:38,739 - DEBUG - _pywebviewready event fired
+2025-12-05 08:08:38,777 - DEBUG - loaded event fired
+2025-12-05 08:08:41,434 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-05 08:08:41,468 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-05 08:08:41,950 - DEBUG - _pywebviewready event fired
+2025-12-05 08:08:41,998 - DEBUG - loaded event fired
+2025-12-05 08:08:43,513 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-05 08:08:43,565 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-05 08:08:44,276 - DEBUG - _pywebviewready event fired
+2025-12-05 08:08:44,304 - DEBUG - loaded event fired
+2025-12-05 08:08:54,269 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-05 08:08:54,347 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-05 08:08:54,910 - DEBUG - _pywebviewready event fired
+2025-12-05 08:08:54,976 - DEBUG - loaded event fired
+2025-12-05 08:09:05,418 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-05 08:09:05,426 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-05 08:09:05,930 - DEBUG - _pywebviewready event fired
+2025-12-05 08:09:05,962 - DEBUG - loaded event fired
+2025-12-05 08:09:19,472 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-05 08:09:19,494 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-05 08:09:20,154 - DEBUG - _pywebviewready event fired
+2025-12-05 08:09:20,199 - DEBUG - loaded event fired
+2025-12-05 08:09:24,499 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-05 08:09:24,505 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-05 08:09:24,939 - DEBUG - _pywebviewready event fired
+2025-12-05 08:09:24,962 - DEBUG - loaded event fired
+2025-12-05 08:09:25,474 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-05 08:09:25,566 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-05 08:09:26,056 - DEBUG - _pywebviewready event fired
+2025-12-05 08:09:26,077 - DEBUG - loaded event fired
+2025-12-05 08:14:39,988 - DEBUG - Using WinForms / Chromium
+2025-12-05 08:14:40,194 - DEBUG - Comon path for local URLs: c:\Users\Salum\OneDrive\files\personal_projects\focus-timer\frontend
+2025-12-05 08:14:40,200 - DEBUG - HTTP server root path: c:\Users\Salum\OneDrive\files\personal_projects\focus-timer\frontend
+2025-12-05 08:14:42,624 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-05 08:14:42,786 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-05 08:14:43,865 - DEBUG - _pywebviewready event fired
+2025-12-05 08:14:43,930 - DEBUG - loaded event fired
+2025-12-05 08:14:51,402 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-05 08:14:51,450 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-05 08:14:52,105 - DEBUG - _pywebviewready event fired
+2025-12-05 08:14:52,139 - DEBUG - loaded event fired
+2025-12-05 08:14:52,658 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-05 08:14:52,742 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-05 08:14:53,215 - DEBUG - _pywebviewready event fired
+2025-12-05 08:14:53,268 - DEBUG - loaded event fired
+2025-12-05 08:15:01,486 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-05 08:15:01,565 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-05 08:15:02,245 - DEBUG - _pywebviewready event fired
+2025-12-05 08:15:02,305 - DEBUG - loaded event fired
+2025-12-05 08:15:04,176 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-05 08:15:04,202 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-05 08:15:04,562 - DEBUG - _pywebviewready event fired
+2025-12-05 08:15:04,698 - DEBUG - loaded event fired
+2025-12-05 08:22:58,483 - DEBUG - Using WinForms / Chromium
+2025-12-05 08:22:58,665 - DEBUG - Comon path for local URLs: c:\Users\Salum\OneDrive\files\personal_projects\focus-timer\frontend
+2025-12-05 08:22:58,675 - DEBUG - HTTP server root path: c:\Users\Salum\OneDrive\files\personal_projects\focus-timer\frontend
+2025-12-05 08:23:01,061 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-05 08:23:01,267 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-05 08:23:01,606 - DEBUG - _pywebviewready event fired
+2025-12-05 08:23:01,639 - DEBUG - loaded event fired
+2025-12-05 08:23:38,723 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-05 08:23:38,838 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-05 08:23:39,694 - DEBUG - _pywebviewready event fired
+2025-12-05 08:23:39,763 - DEBUG - loaded event fired
+2025-12-05 08:23:41,109 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-05 08:23:41,149 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-05 08:23:41,792 - DEBUG - _pywebviewready event fired
+2025-12-05 08:23:41,935 - DEBUG - loaded event fired
+2025-12-05 08:25:22,163 - DEBUG - Using WinForms / Chromium
+2025-12-05 08:25:22,425 - DEBUG - Comon path for local URLs: c:\Users\Salum\OneDrive\files\personal_projects\focus-timer\frontend
+2025-12-05 08:25:22,436 - DEBUG - HTTP server root path: c:\Users\Salum\OneDrive\files\personal_projects\focus-timer\frontend
+2025-12-05 08:25:24,838 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-05 08:25:24,871 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-05 08:28:08,687 - DEBUG - Using WinForms / Chromium
+2025-12-05 08:28:08,875 - DEBUG - Comon path for local URLs: c:\Users\Salum\OneDrive\files\personal_projects\focus-timer\frontend
+2025-12-05 08:28:08,885 - DEBUG - HTTP server root path: c:\Users\Salum\OneDrive\files\personal_projects\focus-timer\frontend
+2025-12-05 08:28:11,388 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-05 08:28:11,433 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-05 08:28:12,125 - DEBUG - _pywebviewready event fired
+2025-12-05 08:28:12,239 - DEBUG - loaded event fired
+2025-12-05 08:28:18,987 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-05 08:28:19,012 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-05 08:28:19,602 - DEBUG - _pywebviewready event fired
+2025-12-05 08:28:19,730 - DEBUG - loaded event fired
+2025-12-05 08:28:21,901 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-05 08:28:21,983 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-05 08:28:22,727 - DEBUG - _pywebviewready event fired
+2025-12-05 08:28:22,843 - DEBUG - loaded event fired
+2025-12-05 08:28:24,313 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-05 08:28:24,418 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-05 08:28:25,169 - DEBUG - _pywebviewready event fired
+2025-12-05 08:28:25,206 - DEBUG - loaded event fired
+2025-12-05 08:28:31,727 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-05 08:28:31,762 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-05 08:28:32,531 - DEBUG - _pywebviewready event fired
+2025-12-05 08:28:32,678 - DEBUG - loaded event fired
+2025-12-05 08:32:22,819 - DEBUG - Using WinForms / Chromium
+2025-12-05 08:32:23,008 - DEBUG - Comon path for local URLs: c:\Users\Salum\OneDrive\files\personal_projects\focus-timer\frontend
+2025-12-05 08:32:23,019 - DEBUG - HTTP server root path: c:\Users\Salum\OneDrive\files\personal_projects\focus-timer\frontend
+2025-12-05 08:32:25,268 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-05 08:32:25,343 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-05 08:32:26,465 - DEBUG - _pywebviewready event fired
+2025-12-05 08:32:26,503 - DEBUG - loaded event fired
+2025-12-05 08:32:51,090 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-05 08:32:51,105 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-05 08:32:51,481 - DEBUG - _pywebviewready event fired
+2025-12-05 08:32:51,534 - DEBUG - loaded event fired
+2025-12-05 08:32:56,033 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-05 08:32:56,100 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-05 08:32:56,650 - DEBUG - _pywebviewready event fired
+2025-12-05 08:32:56,752 - DEBUG - loaded event fired
+2025-12-05 08:33:07,222 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-05 08:33:07,295 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-05 08:33:08,105 - DEBUG - _pywebviewready event fired
+2025-12-05 08:33:08,199 - DEBUG - loaded event fired
+2025-12-05 08:36:26,177 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-05 08:36:26,357 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-05 08:36:27,055 - DEBUG - _pywebviewready event fired
+2025-12-05 08:36:27,091 - DEBUG - loaded event fired
+2025-12-05 08:36:29,762 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-05 08:36:29,800 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-05 08:36:30,639 - DEBUG - _pywebviewready event fired
+2025-12-05 08:36:30,744 - DEBUG - loaded event fired
+2025-12-05 08:38:19,117 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-05 08:38:19,206 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-05 08:38:19,746 - DEBUG - _pywebviewready event fired
+2025-12-05 08:38:19,806 - DEBUG - loaded event fired
+2025-12-05 08:38:27,574 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-05 08:38:27,583 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-05 08:38:28,084 - DEBUG - _pywebviewready event fired
+2025-12-05 08:38:28,122 - DEBUG - loaded event fired
+2025-12-05 08:39:38,848 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-05 08:39:38,890 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-05 08:39:39,469 - DEBUG - _pywebviewready event fired
+2025-12-05 08:39:39,513 - DEBUG - loaded event fired
+2025-12-05 08:39:41,284 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-05 08:39:41,343 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-05 08:39:42,038 - DEBUG - _pywebviewready event fired
+2025-12-05 08:39:42,054 - DEBUG - loaded event fired
+2025-12-05 08:56:01,613 - DEBUG - Using WinForms / Chromium
+2025-12-05 08:56:01,787 - DEBUG - Comon path for local URLs: c:\Users\Salum\OneDrive\files\personal_projects\focus-timer\frontend
+2025-12-05 08:56:01,791 - DEBUG - HTTP server root path: c:\Users\Salum\OneDrive\files\personal_projects\focus-timer\frontend
+2025-12-05 08:56:04,504 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-05 08:56:04,544 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-05 08:56:05,539 - DEBUG - _pywebviewready event fired
+2025-12-05 08:56:05,566 - DEBUG - loaded event fired
+2025-12-05 08:56:09,934 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-05 08:56:09,992 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-05 08:56:10,521 - DEBUG - _pywebviewready event fired
+2025-12-05 08:56:10,545 - DEBUG - loaded event fired
+2025-12-05 09:05:19,356 - DEBUG - Using WinForms / Chromium
+2025-12-05 09:05:19,519 - DEBUG - Comon path for local URLs: c:\Users\Salum\OneDrive\files\personal_projects\focus-timer\frontend
+2025-12-05 09:05:19,528 - DEBUG - HTTP server root path: c:\Users\Salum\OneDrive\files\personal_projects\focus-timer\frontend
+2025-12-05 09:05:22,388 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-05 09:05:22,522 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-05 09:05:22,952 - DEBUG - _pywebviewready event fired
+2025-12-05 09:05:22,970 - DEBUG - loaded event fired
+2025-12-05 09:05:39,755 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-05 09:05:39,772 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-05 09:05:40,234 - DEBUG - _pywebviewready event fired
+2025-12-05 09:05:40,295 - DEBUG - loaded event fired
+2025-12-05 09:07:51,495 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-05 09:07:51,544 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-05 09:07:52,061 - DEBUG - _pywebviewready event fired
+2025-12-05 09:07:52,080 - DEBUG - loaded event fired
+2025-12-05 09:07:53,145 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-05 09:07:53,208 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-05 09:07:53,680 - DEBUG - _pywebviewready event fired
+2025-12-05 09:07:53,713 - DEBUG - loaded event fired
+2025-12-05 09:09:16,944 - DEBUG - Using WinForms / Chromium
+2025-12-05 09:09:17,125 - DEBUG - Comon path for local URLs: c:\Users\Salum\OneDrive\files\personal_projects\focus-timer\frontend
+2025-12-05 09:09:17,128 - DEBUG - HTTP server root path: c:\Users\Salum\OneDrive\files\personal_projects\focus-timer\frontend
+2025-12-05 09:09:20,113 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-05 09:09:20,139 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-05 09:09:20,605 - DEBUG - _pywebviewready event fired
+2025-12-05 09:09:20,667 - DEBUG - loaded event fired
+2025-12-05 09:09:23,275 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-05 09:09:23,311 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-05 09:09:23,915 - DEBUG - _pywebviewready event fired
+2025-12-05 09:09:24,004 - DEBUG - loaded event fired
+2025-12-05 09:09:51,965 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-05 09:09:52,004 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-05 09:09:52,639 - DEBUG - _pywebviewready event fired
+2025-12-05 09:09:52,693 - DEBUG - loaded event fired
+2025-12-05 09:09:53,991 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-05 09:09:54,057 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-05 09:09:54,548 - DEBUG - _pywebviewready event fired
+2025-12-05 09:09:54,568 - DEBUG - loaded event fired
+2025-12-05 09:11:19,020 - DEBUG - Using WinForms / Chromium
+2025-12-05 09:11:19,215 - DEBUG - Comon path for local URLs: c:\Users\Salum\OneDrive\files\personal_projects\focus-timer\frontend
+2025-12-05 09:11:19,237 - DEBUG - HTTP server root path: c:\Users\Salum\OneDrive\files\personal_projects\focus-timer\frontend
+2025-12-05 09:11:21,856 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-05 09:11:22,019 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-05 09:11:22,802 - DEBUG - _pywebviewready event fired
+2025-12-05 09:11:22,848 - DEBUG - loaded event fired
+2025-12-05 09:11:28,322 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-05 09:11:28,370 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-05 09:11:28,978 - DEBUG - _pywebviewready event fired
+2025-12-05 09:11:29,026 - DEBUG - loaded event fired
+2025-12-05 09:26:17,420 - ERROR - Traceback (most recent call last):
+  File "C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\util.py", line 254, in _call
+    result = func(*func_params)
+  File "c:\Users\Salum\OneDrive\files\personal_projects\focus-timer\core\api.py", line 50, in get_registers
+    self.registers = get_registers_by_period(self.period)
+                     ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "c:\Users\Salum\OneDrive\files\personal_projects\focus-timer\core\firebase\registers.py", line 12, in get_registers_by_period
+    year, month = period.split("-")
+    ^^^^^^^^^^^
+ValueError: not enough values to unpack (expected 2, got 1)
+
+2025-12-05 09:26:20,948 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-05 09:26:20,974 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-05 09:26:21,499 - DEBUG - _pywebviewready event fired
+2025-12-05 09:26:21,564 - DEBUG - loaded event fired
+2025-12-05 09:26:22,338 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-05 09:26:22,357 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-05 09:26:22,688 - DEBUG - _pywebviewready event fired
+2025-12-05 09:26:22,729 - DEBUG - loaded event fired
+2025-12-05 09:26:28,460 - ERROR - Traceback (most recent call last):
+  File "C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\util.py", line 254, in _call
+    result = func(*func_params)
+  File "c:\Users\Salum\OneDrive\files\personal_projects\focus-timer\core\api.py", line 50, in get_registers
+    self.registers = get_registers_by_period(self.period)
+                     ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "c:\Users\Salum\OneDrive\files\personal_projects\focus-timer\core\firebase\registers.py", line 12, in get_registers_by_period
+    year, month = period.split("-")
+    ^^^^^^^^^^^
+ValueError: not enough values to unpack (expected 2, got 1)
+
+2025-12-05 09:26:54,372 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-05 09:26:54,395 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-05 09:26:55,128 - DEBUG - _pywebviewready event fired
+2025-12-05 09:26:55,158 - DEBUG - loaded event fired
+2025-12-05 09:26:55,941 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-05 09:26:55,966 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-05 09:26:56,490 - DEBUG - _pywebviewready event fired
+2025-12-05 09:26:56,616 - DEBUG - loaded event fired
+2025-12-05 09:26:57,097 - ERROR - Traceback (most recent call last):
+  File "C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\util.py", line 254, in _call
+    result = func(*func_params)
+  File "c:\Users\Salum\OneDrive\files\personal_projects\focus-timer\core\api.py", line 50, in get_registers
+    self.registers = get_registers_by_period(self.period)
+                     ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "c:\Users\Salum\OneDrive\files\personal_projects\focus-timer\core\firebase\registers.py", line 12, in get_registers_by_period
+    year, month = period.split("-")
+    ^^^^^^^^^^^
+ValueError: not enough values to unpack (expected 2, got 1)
+
+2025-12-05 09:26:59,805 - ERROR - Traceback (most recent call last):
+  File "C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\util.py", line 254, in _call
+    result = func(*func_params)
+  File "c:\Users\Salum\OneDrive\files\personal_projects\focus-timer\core\api.py", line 50, in get_registers
+    self.registers = get_registers_by_period(self.period)
+                     ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "c:\Users\Salum\OneDrive\files\personal_projects\focus-timer\core\firebase\registers.py", line 12, in get_registers_by_period
+    year, month = period.split("-")
+    ^^^^^^^^^^^
+ValueError: not enough values to unpack (expected 2, got 1)
+
+2025-12-05 09:28:11,726 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-05 09:28:11,807 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-05 09:28:12,219 - DEBUG - _pywebviewready event fired
+2025-12-05 09:28:12,238 - DEBUG - loaded event fired
+2025-12-05 09:28:13,411 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-05 09:28:13,519 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-05 09:28:13,895 - DEBUG - _pywebviewready event fired
+2025-12-05 09:28:13,942 - DEBUG - loaded event fired
+2025-12-05 09:28:14,455 - ERROR - Traceback (most recent call last):
+  File "C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\util.py", line 254, in _call
+    result = func(*func_params)
+  File "c:\Users\Salum\OneDrive\files\personal_projects\focus-timer\core\api.py", line 50, in get_registers
+    self.registers = get_registers_by_period(self.period)
+                     ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "c:\Users\Salum\OneDrive\files\personal_projects\focus-timer\core\firebase\registers.py", line 12, in get_registers_by_period
+    year, month = period.split("-")
+    ^^^^^^^^^^^
+ValueError: not enough values to unpack (expected 2, got 1)
+
+2025-12-05 09:28:19,425 - ERROR - Traceback (most recent call last):
+  File "C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\util.py", line 254, in _call
+    result = func(*func_params)
+  File "c:\Users\Salum\OneDrive\files\personal_projects\focus-timer\core\api.py", line 50, in get_registers
+    self.registers = get_registers_by_period(self.period)
+                     ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "c:\Users\Salum\OneDrive\files\personal_projects\focus-timer\core\firebase\registers.py", line 12, in get_registers_by_period
+    year, month = period.split("-")
+    ^^^^^^^^^^^
+ValueError: not enough values to unpack (expected 2, got 1)
+
+2025-12-05 09:28:26,219 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-05 09:28:26,237 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-05 09:28:26,691 - DEBUG - _pywebviewready event fired
+2025-12-05 09:28:26,791 - DEBUG - loaded event fired
+2025-12-05 09:28:27,899 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-05 09:28:28,012 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-05 09:28:28,767 - DEBUG - _pywebviewready event fired
+2025-12-05 09:28:28,803 - DEBUG - loaded event fired
+2025-12-05 09:29:25,188 - DEBUG - Using WinForms / Chromium
+2025-12-05 09:29:25,374 - DEBUG - Comon path for local URLs: c:\Users\Salum\OneDrive\files\personal_projects\focus-timer\frontend
+2025-12-05 09:29:25,378 - DEBUG - HTTP server root path: c:\Users\Salum\OneDrive\files\personal_projects\focus-timer\frontend
+2025-12-05 09:29:27,617 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-05 09:29:27,651 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-05 09:29:27,861 - DEBUG - _pywebviewready event fired
+2025-12-05 09:29:27,951 - DEBUG - loaded event fired
+2025-12-05 09:29:29,606 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-05 09:29:29,722 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-05 09:29:30,196 - DEBUG - _pywebviewready event fired
+2025-12-05 09:29:30,216 - DEBUG - loaded event fired
+2025-12-05 09:30:42,641 - DEBUG - Using WinForms / Chromium
+2025-12-05 09:30:42,948 - DEBUG - Comon path for local URLs: c:\Users\Salum\OneDrive\files\personal_projects\focus-timer\frontend
+2025-12-05 09:30:42,952 - DEBUG - HTTP server root path: c:\Users\Salum\OneDrive\files\personal_projects\focus-timer\frontend
+2025-12-05 09:30:45,624 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-05 09:30:45,788 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-05 09:30:46,248 - DEBUG - _pywebviewready event fired
+2025-12-05 09:30:46,279 - DEBUG - loaded event fired
+2025-12-05 09:30:48,459 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-05 09:30:48,491 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-05 09:30:49,166 - DEBUG - _pywebviewready event fired
+2025-12-05 09:30:49,182 - DEBUG - loaded event fired
+2025-12-05 09:34:01,886 - DEBUG - Using WinForms / Chromium
+2025-12-05 09:34:02,179 - DEBUG - Comon path for local URLs: c:\Users\Salum\OneDrive\files\personal_projects\focus-timer\frontend
+2025-12-05 09:34:02,191 - DEBUG - HTTP server root path: c:\Users\Salum\OneDrive\files\personal_projects\focus-timer\frontend
+2025-12-05 09:34:05,288 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-05 09:34:05,361 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-05 09:34:06,110 - DEBUG - _pywebviewready event fired
+2025-12-05 09:34:06,179 - DEBUG - loaded event fired
+2025-12-05 09:34:12,527 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-05 09:34:12,603 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-05 09:34:13,099 - DEBUG - _pywebviewready event fired
+2025-12-05 09:34:13,179 - DEBUG - loaded event fired
+2025-12-05 09:34:23,014 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-05 09:34:23,094 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-05 09:34:23,808 - DEBUG - _pywebviewready event fired
+2025-12-05 09:34:23,845 - DEBUG - loaded event fired
+2025-12-05 09:34:32,284 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-05 09:34:32,325 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-05 09:34:32,919 - DEBUG - _pywebviewready event fired
+2025-12-05 09:34:33,010 - DEBUG - loaded event fired
+2025-12-05 09:36:05,143 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-05 09:36:05,222 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-05 09:36:05,708 - DEBUG - _pywebviewready event fired
+2025-12-05 09:36:05,729 - DEBUG - loaded event fired
+2025-12-05 09:36:08,029 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-05 09:36:08,120 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-05 09:36:08,590 - DEBUG - _pywebviewready event fired
+2025-12-05 09:36:08,671 - DEBUG - loaded event fired
+2025-12-05 09:36:11,305 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-05 09:36:11,357 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-05 09:36:11,980 - DEBUG - _pywebviewready event fired
+2025-12-05 09:36:12,065 - DEBUG - loaded event fired
+2025-12-05 09:36:13,665 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-05 09:36:13,704 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-05 09:36:14,242 - DEBUG - _pywebviewready event fired
+2025-12-05 09:36:14,376 - DEBUG - loaded event fired
+2025-12-05 09:44:14,290 - DEBUG - Using WinForms / Chromium
+2025-12-05 09:44:14,450 - DEBUG - Comon path for local URLs: c:\Users\Salum\OneDrive\files\personal_projects\focus-timer\frontend
+2025-12-05 09:44:14,456 - DEBUG - HTTP server root path: c:\Users\Salum\OneDrive\files\personal_projects\focus-timer\frontend
+2025-12-05 09:44:16,826 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-05 09:44:16,884 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-05 09:44:17,949 - DEBUG - _pywebviewready event fired
+2025-12-05 09:44:18,018 - DEBUG - loaded event fired
+2025-12-05 09:44:22,456 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-05 09:44:22,536 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-05 09:44:23,136 - DEBUG - _pywebviewready event fired
+2025-12-05 09:44:23,225 - DEBUG - loaded event fired
+2025-12-05 09:47:14,478 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-05 09:47:14,531 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-05 09:47:15,087 - DEBUG - _pywebviewready event fired
+2025-12-05 09:47:15,190 - DEBUG - loaded event fired
+2025-12-05 09:48:08,849 - DEBUG - Using WinForms / Chromium
+2025-12-05 09:48:09,059 - DEBUG - Comon path for local URLs: c:\Users\Salum\OneDrive\files\personal_projects\focus-timer\frontend
+2025-12-05 09:48:09,065 - DEBUG - HTTP server root path: c:\Users\Salum\OneDrive\files\personal_projects\focus-timer\frontend
+2025-12-05 09:48:11,532 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-05 09:48:11,582 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-05 09:48:12,338 - DEBUG - _pywebviewready event fired
+2025-12-05 09:48:12,376 - DEBUG - loaded event fired
+2025-12-05 09:48:19,021 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-05 09:48:19,071 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-05 09:48:19,529 - DEBUG - _pywebviewready event fired
+2025-12-05 09:48:19,557 - DEBUG - loaded event fired
+2025-12-05 09:48:44,442 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-05 09:48:44,501 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-05 09:48:45,080 - DEBUG - _pywebviewready event fired
+2025-12-05 09:48:45,107 - DEBUG - loaded event fired
+2025-12-05 09:48:51,493 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-05 09:48:51,564 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-05 09:48:52,072 - DEBUG - _pywebviewready event fired
+2025-12-05 09:48:52,100 - DEBUG - loaded event fired
+2025-12-05 09:48:52,898 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-05 09:48:52,964 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-05 09:48:53,761 - DEBUG - _pywebviewready event fired
+2025-12-05 09:48:53,875 - DEBUG - loaded event fired
+2025-12-05 09:48:56,316 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-05 09:48:56,335 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-05 09:48:56,928 - DEBUG - _pywebviewready event fired
+2025-12-05 09:48:56,961 - DEBUG - loaded event fired
+2025-12-05 09:48:57,794 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-05 09:48:57,844 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-05 09:48:58,428 - DEBUG - _pywebviewready event fired
+2025-12-05 09:48:58,494 - DEBUG - loaded event fired
+2025-12-05 09:49:00,711 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-05 09:49:00,741 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-05 09:49:01,285 - DEBUG - _pywebviewready event fired
+2025-12-05 09:49:01,305 - DEBUG - loaded event fired
+2025-12-05 09:49:02,232 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-05 09:49:02,275 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-05 09:49:02,747 - DEBUG - _pywebviewready event fired
+2025-12-05 09:49:02,776 - DEBUG - loaded event fired
+2025-12-05 09:49:04,920 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-05 09:49:04,933 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-05 09:49:05,524 - DEBUG - _pywebviewready event fired
+2025-12-05 09:49:05,566 - DEBUG - loaded event fired
+2025-12-05 09:49:06,172 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-05 09:49:06,240 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-05 09:49:06,672 - DEBUG - _pywebviewready event fired
+2025-12-05 09:49:06,721 - DEBUG - loaded event fired
+2025-12-05 09:49:07,538 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-05 09:49:07,633 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-05 09:49:08,250 - DEBUG - _pywebviewready event fired
+2025-12-05 09:49:08,296 - DEBUG - loaded event fired
+2025-12-05 09:49:13,705 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-05 09:49:13,725 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-05 09:49:14,323 - DEBUG - _pywebviewready event fired
+2025-12-05 09:49:14,372 - DEBUG - loaded event fired
+2025-12-05 09:49:15,973 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-05 09:49:15,985 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-05 09:49:16,362 - DEBUG - _pywebviewready event fired
+2025-12-05 09:49:16,456 - DEBUG - loaded event fired
+2025-12-05 09:49:17,343 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-05 09:49:17,390 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-05 09:49:17,866 - DEBUG - _pywebviewready event fired
+2025-12-05 09:49:17,903 - DEBUG - loaded event fired
+2025-12-05 09:49:20,260 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-05 09:49:20,295 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-05 09:49:20,850 - DEBUG - _pywebviewready event fired
+2025-12-05 09:49:20,881 - DEBUG - loaded event fired
+2025-12-05 09:49:21,659 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-05 09:49:21,689 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-05 09:49:22,206 - DEBUG - _pywebviewready event fired
+2025-12-05 09:49:22,314 - DEBUG - loaded event fired
+2025-12-05 09:49:24,114 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-05 09:49:24,173 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-05 09:49:24,759 - DEBUG - _pywebviewready event fired
+2025-12-05 09:49:24,795 - DEBUG - loaded event fired
+2025-12-05 09:49:25,379 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-05 09:49:25,470 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-05 09:49:26,204 - DEBUG - _pywebviewready event fired
+2025-12-05 09:49:26,241 - DEBUG - loaded event fired
+2025-12-05 09:49:32,452 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-05 09:49:32,490 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-05 09:49:32,992 - DEBUG - _pywebviewready event fired
+2025-12-05 09:49:33,037 - DEBUG - loaded event fired
+2025-12-05 09:55:38,467 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-05 09:55:38,587 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-05 09:55:39,255 - DEBUG - _pywebviewready event fired
+2025-12-05 09:55:39,293 - DEBUG - loaded event fired
+2025-12-05 09:56:09,937 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-05 09:56:10,059 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-05 09:56:10,659 - DEBUG - _pywebviewready event fired
+2025-12-05 09:56:10,762 - DEBUG - loaded event fired
+2025-12-05 09:56:24,751 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-05 09:56:24,786 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-05 09:56:25,473 - DEBUG - _pywebviewready event fired
+2025-12-05 09:56:25,523 - DEBUG - loaded event fired
+2025-12-05 09:57:32,390 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-05 09:57:32,433 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-05 09:57:33,021 - DEBUG - _pywebviewready event fired
+2025-12-05 09:57:33,100 - DEBUG - loaded event fired
+2025-12-05 09:58:43,029 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-05 09:58:43,033 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-05 09:58:43,420 - DEBUG - _pywebviewready event fired
+2025-12-05 09:58:43,493 - DEBUG - loaded event fired
+2025-12-05 09:59:01,342 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-05 09:59:01,451 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-05 09:59:02,128 - DEBUG - _pywebviewready event fired
+2025-12-05 09:59:02,143 - DEBUG - loaded event fired
+2025-12-05 09:59:03,255 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-05 09:59:03,361 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-05 09:59:03,895 - DEBUG - _pywebviewready event fired
+2025-12-05 09:59:03,937 - DEBUG - loaded event fired
+2025-12-05 09:59:04,282 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-05 09:59:04,315 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-05 09:59:04,999 - DEBUG - _pywebviewready event fired
+2025-12-05 09:59:05,039 - DEBUG - loaded event fired
+2025-12-05 09:59:08,246 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-05 09:59:08,281 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-05 09:59:09,022 - DEBUG - _pywebviewready event fired
+2025-12-05 09:59:09,152 - DEBUG - loaded event fired
+2025-12-05 10:01:06,363 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-05 10:01:06,448 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-05 10:01:06,993 - DEBUG - _pywebviewready event fired
+2025-12-05 10:01:07,052 - DEBUG - loaded event fired
+2025-12-05 10:01:08,653 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-05 10:01:08,676 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-05 10:01:09,412 - DEBUG - _pywebviewready event fired
+2025-12-05 10:01:09,469 - DEBUG - loaded event fired
+2025-12-05 10:01:29,627 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-05 10:01:29,646 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-05 10:01:30,090 - DEBUG - _pywebviewready event fired
+2025-12-05 10:01:30,111 - DEBUG - loaded event fired
+2025-12-05 10:36:37,759 - DEBUG - Using WinForms / Chromium
+2025-12-05 10:36:37,954 - DEBUG - Comon path for local URLs: c:\Users\Salum\OneDrive\files\personal_projects\focus-timer\frontend
+2025-12-05 10:36:37,965 - DEBUG - HTTP server root path: c:\Users\Salum\OneDrive\files\personal_projects\focus-timer\frontend
+2025-12-05 10:36:40,471 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-05 10:36:40,530 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-05 10:36:41,604 - DEBUG - _pywebviewready event fired
+2025-12-05 10:36:41,646 - DEBUG - loaded event fired
+2025-12-05 10:36:51,548 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-05 10:36:51,648 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-05 10:36:51,967 - DEBUG - _pywebviewready event fired
+2025-12-05 10:36:51,985 - DEBUG - loaded event fired
+2025-12-05 10:48:49,105 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-05 10:48:49,121 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-05 10:48:49,717 - DEBUG - _pywebviewready event fired
+2025-12-05 10:48:49,772 - DEBUG - loaded event fired
+2025-12-05 10:49:34,975 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-05 10:49:34,999 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-05 10:49:35,504 - DEBUG - _pywebviewready event fired
+2025-12-05 10:49:35,516 - DEBUG - loaded event fired
+2025-12-05 10:50:24,535 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-05 10:50:24,629 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-05 10:50:25,011 - DEBUG - _pywebviewready event fired
+2025-12-05 10:50:25,050 - DEBUG - loaded event fired
+2025-12-05 11:04:43,493 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-05 11:04:43,525 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-05 11:04:44,068 - DEBUG - _pywebviewready event fired
+2025-12-05 11:04:44,122 - DEBUG - loaded event fired
+2025-12-05 11:30:23,013 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-05 11:30:23,084 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-05 11:30:23,510 - DEBUG - _pywebviewready event fired
+2025-12-05 11:30:23,545 - DEBUG - loaded event fired
+2025-12-05 11:30:53,163 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-05 11:30:53,211 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-05 11:30:53,768 - DEBUG - _pywebviewready event fired
+2025-12-05 11:30:53,845 - DEBUG - loaded event fired
+2025-12-05 11:31:02,708 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-05 11:31:02,774 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-05 11:31:03,397 - DEBUG - _pywebviewready event fired
+2025-12-05 11:31:03,524 - DEBUG - loaded event fired
+2025-12-05 11:31:26,252 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-05 11:31:26,275 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-05 11:31:26,773 - DEBUG - _pywebviewready event fired
+2025-12-05 11:31:26,819 - DEBUG - loaded event fired
+2025-12-05 11:31:57,372 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-05 11:31:57,403 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-05 11:31:57,777 - DEBUG - _pywebviewready event fired
+2025-12-05 11:31:57,795 - DEBUG - loaded event fired
+2025-12-05 11:32:33,820 - DEBUG - Using WinForms / Chromium
+2025-12-05 11:32:34,126 - DEBUG - Comon path for local URLs: c:\Users\Salum\OneDrive\files\personal_projects\focus-timer\frontend
+2025-12-05 11:32:34,127 - DEBUG - HTTP server root path: c:\Users\Salum\OneDrive\files\personal_projects\focus-timer\frontend
+2025-12-05 11:32:37,197 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-05 11:32:37,221 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-05 11:32:37,404 - DEBUG - _pywebviewready event fired
+2025-12-05 11:32:37,482 - DEBUG - loaded event fired
+2025-12-05 11:32:45,328 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-05 11:32:45,391 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-05 11:32:46,208 - DEBUG - _pywebviewready event fired
+2025-12-05 11:32:46,324 - DEBUG - loaded event fired
+2025-12-05 11:32:49,043 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-05 11:32:49,063 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-05 11:32:49,610 - DEBUG - _pywebviewready event fired
+2025-12-05 11:32:49,622 - DEBUG - loaded event fired
+2025-12-05 11:32:51,025 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-05 11:32:51,130 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-05 11:32:51,752 - DEBUG - _pywebviewready event fired
+2025-12-05 11:32:51,853 - DEBUG - loaded event fired
+2025-12-05 11:33:43,026 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-05 11:33:43,079 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-05 11:33:43,970 - DEBUG - _pywebviewready event fired
+2025-12-05 11:33:44,007 - DEBUG - loaded event fired
+2025-12-05 11:36:37,290 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-05 11:36:37,370 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-05 11:36:38,041 - DEBUG - _pywebviewready event fired
+2025-12-05 11:36:38,067 - DEBUG - loaded event fired
+2025-12-05 11:37:45,392 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-05 11:37:45,449 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-05 11:37:46,055 - DEBUG - _pywebviewready event fired
+2025-12-05 11:37:46,157 - DEBUG - loaded event fired
+2025-12-05 11:37:54,415 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-05 11:37:54,518 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-05 11:37:55,105 - DEBUG - _pywebviewready event fired
+2025-12-05 11:37:55,199 - DEBUG - loaded event fired
+2025-12-05 11:38:22,036 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-05 11:38:22,069 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-05 11:38:22,568 - DEBUG - _pywebviewready event fired
+2025-12-05 11:38:22,586 - DEBUG - loaded event fired
+2025-12-05 12:25:41,237 - DEBUG - Using WinForms / Chromium
+2025-12-05 12:25:41,387 - DEBUG - Comon path for local URLs: c:\Users\Salum\OneDrive\files\personal_projects\focus-timer\frontend
+2025-12-05 12:25:41,390 - DEBUG - HTTP server root path: c:\Users\Salum\OneDrive\files\personal_projects\focus-timer\frontend
+2025-12-05 12:25:45,196 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-05 12:25:45,273 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-05 12:25:45,721 - DEBUG - _pywebviewready event fired
+2025-12-05 12:25:45,779 - DEBUG - loaded event fired
+2025-12-05 12:26:16,558 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-05 12:26:16,600 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-05 12:26:17,108 - DEBUG - _pywebviewready event fired
+2025-12-05 12:26:17,135 - DEBUG - loaded event fired
+2025-12-05 12:29:41,189 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-05 12:29:41,214 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-05 12:29:41,641 - DEBUG - _pywebviewready event fired
+2025-12-05 12:29:41,677 - DEBUG - loaded event fired
+2025-12-05 12:31:04,553 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-05 12:31:04,599 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-05 12:31:05,036 - DEBUG - _pywebviewready event fired
+2025-12-05 12:31:05,086 - DEBUG - loaded event fired
+2025-12-05 14:14:45,872 - DEBUG - Using WinForms / Chromium
+2025-12-05 14:14:46,158 - DEBUG - Comon path for local URLs: c:\Users\Salum\OneDrive\files\personal_projects\focus-timer\frontend
+2025-12-05 14:14:46,176 - DEBUG - HTTP server root path: c:\Users\Salum\OneDrive\files\personal_projects\focus-timer\frontend
+2025-12-05 14:14:51,560 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-05 14:14:51,575 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-05 14:14:52,624 - DEBUG - _pywebviewready event fired
+2025-12-05 14:14:52,681 - DEBUG - loaded event fired
+2025-12-05 14:15:01,716 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-05 14:15:01,783 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-05 14:15:02,286 - DEBUG - _pywebviewready event fired
+2025-12-05 14:15:02,333 - DEBUG - loaded event fired
+2025-12-05 14:15:33,176 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-05 14:15:33,222 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-05 14:15:33,792 - DEBUG - _pywebviewready event fired
+2025-12-05 14:15:33,816 - DEBUG - loaded event fired
+2025-12-05 14:16:18,943 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-05 14:16:19,175 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-05 14:16:20,013 - DEBUG - _pywebviewready event fired
+2025-12-05 14:16:20,097 - DEBUG - loaded event fired
+2025-12-05 14:18:17,170 - DEBUG - Using WinForms / Chromium
+2025-12-05 14:18:17,417 - DEBUG - Comon path for local URLs: c:\Users\Salum\OneDrive\files\personal_projects\focus-timer\frontend
+2025-12-05 14:18:17,421 - DEBUG - HTTP server root path: c:\Users\Salum\OneDrive\files\personal_projects\focus-timer\frontend
+2025-12-05 14:18:20,025 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-05 14:18:20,109 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-05 14:18:20,842 - DEBUG - _pywebviewready event fired
+2025-12-05 14:18:20,896 - DEBUG - loaded event fired
+2025-12-05 14:18:23,356 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-05 14:18:23,443 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-05 14:18:24,025 - DEBUG - _pywebviewready event fired
+2025-12-05 14:18:24,076 - DEBUG - loaded event fired
+2025-12-05 14:22:45,917 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-05 14:22:46,002 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-05 14:22:46,484 - DEBUG - _pywebviewready event fired
+2025-12-05 14:22:46,613 - DEBUG - loaded event fired
+2025-12-05 14:23:28,656 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-05 14:23:28,730 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-05 14:23:29,146 - DEBUG - _pywebviewready event fired
+2025-12-05 14:23:29,176 - DEBUG - loaded event fired
+2025-12-05 14:24:39,399 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-05 14:24:39,492 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-05 14:24:40,126 - DEBUG - _pywebviewready event fired
+2025-12-05 14:24:40,153 - DEBUG - loaded event fired
+2025-12-05 14:26:08,448 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-05 14:26:08,588 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-05 14:26:08,899 - DEBUG - _pywebviewready event fired
+2025-12-05 14:26:08,915 - DEBUG - loaded event fired
+2025-12-05 14:26:19,806 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-05 14:26:19,841 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-05 14:26:20,369 - DEBUG - _pywebviewready event fired
+2025-12-05 14:26:20,432 - DEBUG - loaded event fired
+2025-12-05 14:27:03,381 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-05 14:27:03,404 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-05 14:27:03,723 - DEBUG - _pywebviewready event fired
+2025-12-05 14:27:03,752 - DEBUG - loaded event fired
+2025-12-05 14:27:09,518 - ERROR - Traceback (most recent call last):
+  File "C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\util.py", line 254, in _call
+    result = func(*func_params)
+  File "c:\Users\Salum\OneDrive\files\personal_projects\focus-timer\core\api.py", line 50, in get_registers
+    self.registers = get_registers_by_period(self.period)
+                     ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "c:\Users\Salum\OneDrive\files\personal_projects\focus-timer\core\firebase\registers.py", line 12, in get_registers_by_period
+    year, month = period.split("-")
+    ^^^^^^^^^^^
+ValueError: not enough values to unpack (expected 2, got 1)
+
+2025-12-05 14:27:11,022 - ERROR - Traceback (most recent call last):
+  File "C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\util.py", line 254, in _call
+    result = func(*func_params)
+  File "c:\Users\Salum\OneDrive\files\personal_projects\focus-timer\core\api.py", line 50, in get_registers
+    self.registers = get_registers_by_period(self.period)
+                     ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "c:\Users\Salum\OneDrive\files\personal_projects\focus-timer\core\firebase\registers.py", line 12, in get_registers_by_period
+    year, month = period.split("-")
+    ^^^^^^^^^^^
+ValueError: not enough values to unpack (expected 2, got 1)
+
+2025-12-05 14:27:24,806 - WARNING - Failed to delete user data folder: [WinError 5] Acesso negado: 'pywebview_userdata'
+2025-12-05 14:27:44,225 - DEBUG - Using WinForms / Chromium
+2025-12-05 14:27:44,363 - DEBUG - Comon path for local URLs: c:\Users\Salum\OneDrive\files\personal_projects\focus-timer\frontend
+2025-12-05 14:27:44,374 - DEBUG - HTTP server root path: c:\Users\Salum\OneDrive\files\personal_projects\focus-timer\frontend
+2025-12-05 14:27:46,779 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-05 14:27:46,792 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-05 14:27:47,238 - DEBUG - _pywebviewready event fired
+2025-12-05 14:27:47,278 - DEBUG - loaded event fired
+2025-12-05 14:27:50,634 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-05 14:27:50,654 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-05 14:27:51,090 - DEBUG - _pywebviewready event fired
+2025-12-05 14:27:51,136 - DEBUG - loaded event fired
+2025-12-05 14:29:39,649 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-05 14:29:39,723 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-05 14:29:40,269 - DEBUG - _pywebviewready event fired
+2025-12-05 14:29:40,313 - DEBUG - loaded event fired
+2025-12-05 14:30:17,818 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-05 14:30:17,864 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-05 14:30:18,296 - DEBUG - _pywebviewready event fired
+2025-12-05 14:30:18,323 - DEBUG - loaded event fired
+2025-12-05 14:30:32,217 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-05 14:30:32,246 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-05 14:30:32,844 - DEBUG - _pywebviewready event fired
+2025-12-05 14:30:32,887 - DEBUG - loaded event fired
+2025-12-05 14:30:35,667 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-05 14:30:35,727 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-05 14:30:36,294 - DEBUG - _pywebviewready event fired
+2025-12-05 14:30:36,344 - DEBUG - loaded event fired
+2025-12-05 14:30:36,610 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-05 14:30:36,620 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-05 14:30:37,129 - DEBUG - _pywebviewready event fired
+2025-12-05 14:30:37,152 - DEBUG - loaded event fired
+2025-12-05 14:35:46,254 - DEBUG - Using WinForms / Chromium
+2025-12-05 14:35:46,358 - DEBUG - Comon path for local URLs: c:\Users\Salum\OneDrive\files\personal_projects\focus-timer\frontend
+2025-12-05 14:35:46,393 - DEBUG - HTTP server root path: c:\Users\Salum\OneDrive\files\personal_projects\focus-timer\frontend
+2025-12-05 14:35:48,878 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-05 14:35:48,997 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-05 14:35:49,802 - DEBUG - _pywebviewready event fired
+2025-12-05 14:35:49,911 - DEBUG - loaded event fired
+2025-12-05 14:35:52,336 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-05 14:35:52,342 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-05 14:35:53,011 - DEBUG - _pywebviewready event fired
+2025-12-05 14:35:53,104 - DEBUG - loaded event fired
+2025-12-05 14:36:21,580 - DEBUG - Using WinForms / Chromium
+2025-12-05 14:36:21,831 - DEBUG - Comon path for local URLs: c:\Users\Salum\OneDrive\files\personal_projects\focus-timer\frontend
+2025-12-05 14:36:21,853 - DEBUG - HTTP server root path: c:\Users\Salum\OneDrive\files\personal_projects\focus-timer\frontend
+2025-12-05 14:36:24,427 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-05 14:36:24,520 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-05 14:36:24,916 - DEBUG - _pywebviewready event fired
+2025-12-05 14:36:24,945 - DEBUG - loaded event fired
+2025-12-05 14:36:33,550 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-05 14:36:33,635 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-05 14:36:34,145 - DEBUG - _pywebviewready event fired
+2025-12-05 14:36:34,178 - DEBUG - loaded event fired
+2025-12-05 14:41:44,035 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-05 14:41:44,138 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-05 14:41:44,686 - DEBUG - _pywebviewready event fired
+2025-12-05 14:41:44,698 - DEBUG - loaded event fired
+2025-12-05 14:41:46,413 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-05 14:41:46,442 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-05 14:41:47,024 - DEBUG - _pywebviewready event fired
+2025-12-05 14:41:47,152 - DEBUG - loaded event fired
+2025-12-05 14:41:47,948 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-05 14:41:48,001 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-05 14:41:48,734 - DEBUG - _pywebviewready event fired
+2025-12-05 14:41:48,814 - DEBUG - loaded event fired
+2025-12-05 14:42:04,508 - WARNING - Failed to delete user data folder: [WinError 5] Acesso negado: 'pywebview_userdata'
+2025-12-05 14:42:26,777 - DEBUG - Using WinForms / Chromium
+2025-12-05 14:42:26,931 - DEBUG - Comon path for local URLs: c:\Users\Salum\OneDrive\files\personal_projects\focus-timer\frontend
+2025-12-05 14:42:26,941 - DEBUG - HTTP server root path: c:\Users\Salum\OneDrive\files\personal_projects\focus-timer\frontend
+2025-12-05 14:42:29,623 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-05 14:42:29,664 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-05 14:42:30,621 - DEBUG - _pywebviewready event fired
+2025-12-05 14:42:30,665 - DEBUG - loaded event fired
+2025-12-05 14:43:00,316 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-05 14:43:00,385 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-05 14:43:01,007 - DEBUG - _pywebviewready event fired
+2025-12-05 14:43:01,048 - DEBUG - loaded event fired
+2025-12-05 14:43:53,821 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-05 14:43:53,905 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-05 14:43:54,438 - DEBUG - _pywebviewready event fired
+2025-12-05 14:43:54,465 - DEBUG - loaded event fired
+2025-12-05 14:44:27,955 - DEBUG - Using WinForms / Chromium
+2025-12-05 14:44:28,181 - DEBUG - Comon path for local URLs: c:\Users\Salum\OneDrive\files\personal_projects\focus-timer\frontend
+2025-12-05 14:44:28,193 - DEBUG - HTTP server root path: c:\Users\Salum\OneDrive\files\personal_projects\focus-timer\frontend
+2025-12-05 14:44:31,345 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-05 14:44:31,368 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-05 14:44:32,194 - DEBUG - _pywebviewready event fired
+2025-12-05 14:44:32,230 - DEBUG - loaded event fired
+2025-12-05 14:44:38,607 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-05 14:44:38,620 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-05 14:44:39,132 - DEBUG - _pywebviewready event fired
+2025-12-05 14:44:39,167 - DEBUG - loaded event fired
+2025-12-05 14:44:45,305 - ERROR - Traceback (most recent call last):
+  File "C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\util.py", line 254, in _call
+    result = func(*func_params)
+  File "c:\Users\Salum\OneDrive\files\personal_projects\focus-timer\core\api.py", line 54, in get_total_hours
+    return self.indicators.get_total_time(self.registers)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "c:\Users\Salum\OneDrive\files\personal_projects\focus-timer\core\firebase\registers.py", line 49, in get_total_time
+    df = pd.to_timedelta(df["actual_duration"])
+                         ~~^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\pandas\core\frame.py", line 4102, in __getitem__
+    indexer = self.columns.get_loc(key)
+  File "C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\pandas\core\indexes\range.py", line 417, in get_loc
+    raise KeyError(key)
+KeyError: 'actual_duration'
+
+2025-12-05 14:44:49,772 - ERROR - Traceback (most recent call last):
+  File "C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\util.py", line 254, in _call
+    result = func(*func_params)
+  File "c:\Users\Salum\OneDrive\files\personal_projects\focus-timer\core\api.py", line 54, in get_total_hours
+    return self.indicators.get_total_time(self.registers)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "c:\Users\Salum\OneDrive\files\personal_projects\focus-timer\core\firebase\registers.py", line 49, in get_total_time
+    df = pd.to_timedelta(df["actual_duration"])
+                         ~~^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\pandas\core\frame.py", line 4102, in __getitem__
+    indexer = self.columns.get_loc(key)
+  File "C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\pandas\core\indexes\range.py", line 417, in get_loc
+    raise KeyError(key)
+KeyError: 'actual_duration'
+
+2025-12-05 14:48:26,622 - DEBUG - Using WinForms / Chromium
+2025-12-05 14:48:26,825 - DEBUG - Comon path for local URLs: c:\Users\Salum\OneDrive\files\personal_projects\focus-timer\frontend
+2025-12-05 14:48:26,826 - DEBUG - HTTP server root path: c:\Users\Salum\OneDrive\files\personal_projects\focus-timer\frontend
+2025-12-05 14:48:29,262 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-05 14:48:29,397 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-05 14:48:30,400 - DEBUG - _pywebviewready event fired
+2025-12-05 14:48:30,484 - DEBUG - loaded event fired
+2025-12-05 14:48:38,525 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-05 14:48:38,601 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-05 14:48:39,110 - DEBUG - _pywebviewready event fired
+2025-12-05 14:48:39,224 - DEBUG - loaded event fired
+2025-12-05 14:49:26,262 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-05 14:49:26,281 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-05 14:49:26,784 - DEBUG - _pywebviewready event fired
+2025-12-05 14:49:26,804 - DEBUG - loaded event fired
+2025-12-05 14:57:55,156 - DEBUG - Using WinForms / Chromium
+2025-12-05 14:57:55,435 - DEBUG - Comon path for local URLs: C:\Users\Salum\OneDrive\files\personal_projects\focus-timer\frontend
+2025-12-05 14:57:55,442 - DEBUG - HTTP server root path: C:\Users\Salum\OneDrive\files\personal_projects\focus-timer\frontend
+2025-12-05 14:57:57,573 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-05 14:57:57,646 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-05 14:57:58,506 - DEBUG - _pywebviewready event fired
+2025-12-05 14:57:58,571 - DEBUG - loaded event fired
+2025-12-05 14:58:21,684 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-05 14:58:21,715 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-05 14:58:22,150 - DEBUG - _pywebviewready event fired
+2025-12-05 14:58:22,217 - DEBUG - loaded event fired
+2025-12-05 15:02:05,125 - ERROR - Traceback (most recent call last):
+  File "C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\util.py", line 254, in _call
+    result = func(*func_params)
+  File "C:\Users\Salum\OneDrive\files\personal_projects\focus-timer\core\api.py", line 50, in get_registers
+    self.registers = get_registers_by_period(self.period)
+                     ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\Salum\OneDrive\files\personal_projects\focus-timer\core\firebase\registers.py", line 12, in get_registers_by_period
+    year, month = period.split("-")
+    ^^^^^^^^^^^
+ValueError: not enough values to unpack (expected 2, got 1)
+
+2025-12-05 15:02:30,511 - DEBUG - Using WinForms / Chromium
+2025-12-05 15:02:30,717 - DEBUG - Comon path for local URLs: c:\Users\Salum\OneDrive\files\personal_projects\focus-timer\frontend
+2025-12-05 15:02:30,732 - DEBUG - HTTP server root path: c:\Users\Salum\OneDrive\files\personal_projects\focus-timer\frontend
+2025-12-05 15:02:33,266 - DEBUG - before_load event fired. injecting pywebview object
+2025-12-05 15:02:33,339 - DEBUG - Loading JS files from C:\Users\Salum\AppData\Local\Programs\Python\Python313\Lib\site-packages\webview\js
+2025-12-05 15:02:33,945 - DEBUG - _pywebviewready event fired
+2025-12-05 15:02:34,029 - DEBUG - loaded event fired
